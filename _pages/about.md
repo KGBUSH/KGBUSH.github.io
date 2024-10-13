@@ -21,14 +21,18 @@ You can find my CV here: [Yang's Curriculum Vitae](../assets/CV_Marco (4).pdf)
 
 Selected Publications
 -------
-1. [Decomposition-based Data Augmentation for Time-series Building Load Data](https://dl.acm.org/doi/10.1145/3600100.3623727)
-      Yang Deng, Rui Liang, Dan Wang, Ao Li, and Fu Xiao
-      ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys), 2023
+1. [AugPlug: An Automated Data Augmentation Model to Enhance Online Building Load Forecasting](https://dl.acm.org/doi/10.1145/3600100.3623727) <br>
+       Yang Deng, Rui Liang, Jiaqi Fan, and Dan Wang <br>
+      ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys), 2024
    
 2. [Decomposition-based Data Augmentation for Time-series Building Load Data](https://dl.acm.org/doi/10.1145/3600100.3623727) <br>
    Yang Deng, Rui Liang, Dan Wang, Ao Li, and Fu Xiao <br>
    ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys), 2023
    
-3. [Decomposition-based Data Augmentation for Time-series Building Load Data](https://dl.acm.org/doi/10.1145/3600100.3623727)
-   Yang Deng, Rui Liang, Dan Wang, Ao Li, and Fu Xiao
-   ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys), 2023
+3. [Behavior testing of load forecasting models using BuildChecks](https://dl.acm.org/doi/abs/10.1145/3538637.3538841) <br>
+   Yang Deng, Jiaqi Fan, Hao Jiang, Fang He, Dan Wang, Ao Li, and Fu Xiao <br>
+   ACM International Conference on Future Energy Systems (e-Energy), 2022
+
+4. [Energon: A Data Acquisition System for Portable Building Analytics](https://dl.acm.org/doi/abs/10.1145/3447555.3464850) <br>
+   He Fang, Yang Deng, Yanhui Xu, Cheng Xu, Dezhi Hong, and Dan Wang <br>
+   ACM International Conference on Future Energy Systems (e-Energy), 2021
