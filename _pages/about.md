@@ -9,13 +9,18 @@ redirect_from:
 
 
 
-I am an final-year PhD student in the Department of Computing at Hong Kong Polytecnic University, where I direct the Intelligent Mobile and Embedded Computing (IMEC) Lab. We work on a variety of exciting problems in embedded AI, mobile and embedded systems, and smart health.
+I am an final-year PhD student in the Department of Computing at Hong Kong Polytecnic University, supervised by [Prof. Dan WANG](https://www4.comp.polyu.edu.hk/~csdwang/).
+My research interest lies in the areas of the evaluation and deployment of the machine learning models for cyber-physical energy systems. Some special topics such as data acquisition, data augmentation, and large model for smart building are highly involved.
 
-Our goal is to realize truly intelligent, health-aware, and safer environments by embedding intelligent percpetion and reasoning into common objects and devices found all around us and utilizing them in efficient ways to provide useful services and improve quality of life. Our work spans a number of domains, including cyber-physical systems, edge computing, signal processing, machine learning, data science, wearables, robotics, health, etc.
 
-Prior to Northwestern, I was a postdoctoral scholar in the Department of Electrical Engineering and Computer Sciences at UC Berkeley (2023), working with Prabal Dutta. I received the Ph.D. in Electrical Engineering from Columbia University (2022), working with Xiaofan Jiang, and the B.S. in Electrical Engineering from Rice University (2016).
+Prior to PolyU, I worked as engineer in Huawei and JD.com. 
+I received the M.S in Computer Science from Tongji University, working with [Prof. Chenxi Zhang](https://baike.baidu.com/item/%E5%BC%B5%E6%99%A8%E6%9B%A6/6083349), and the B.s. in Computer Science from Nanjing University of Aeronautics and Astronautics.
+
 
 You can find my CV here: [Yang's Curriculum Vitae](../assets/CV_Marco (4).pdf)
+
+
+
 
 
 
