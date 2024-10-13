@@ -9,11 +9,11 @@ redirect_from:
 
 
 
-I am a final-year PhD student in the Department of Computing at Hong Kong Polytecnic University (香港理工大学), supervised by [Prof. Dan WANG](https://www4.comp.polyu.edu.hk/~csdwang/).
-My research interest lies in the areas of the evaluation and deployment of the machine learning models for cyber-physical energy systems. Some special topics such as data acquisition, data augmentation, and large model for smart building are highly involved.
+I am a final-year PhD student in the Department of Computing at Hong Kong Polytechnic University (香港理工大学), supervised by [Prof. Dan WANG](https://www4.comp.polyu.edu.hk/~csdwang/).
+My research interest lies in the areas of the evaluation and deployment of machine learning models for cyber-physical energy systems. Some special topics such as data acquisition, data augmentation, and large model for smart building are highly involved.
 
 
-Prior to PolyU, I worked as engineer in Huawei and JD.com. 
+Prior to PolyU, I worked as an engineer  Huawei and JD.com, both located in Shanghai, China. 
 I received the M.S. in Computer Science from Tongji University (同济大学), working with [Prof. Chenxi Zhang](https://baike.baidu.com/item/%E5%BC%B5%E6%99%A8%E6%9B%A6/6083349), and the B.S. in Computer Science from Nanjing University of Aeronautics and Astronautics (南京航空航天大学).
 
 
