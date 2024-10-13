@@ -14,7 +14,7 @@ My research interest lies in the areas of the evaluation and deployment of the m
 
 
 Prior to PolyU, I worked as engineer in Huawei and JD.com. 
-I received the M.S in Computer Science from Tongji University, working with [Prof. Chenxi Zhang](https://baike.baidu.com/item/%E5%BC%B5%E6%99%A8%E6%9B%A6/6083349), and the B.s. in Computer Science from Nanjing University of Aeronautics and Astronautics.
+I received the M.S. in Computer Science from Tongji University, working with [Prof. Chenxi Zhang](https://baike.baidu.com/item/%E5%BC%B5%E6%99%A8%E6%9B%A6/6083349), and the B.S. in Computer Science from Nanjing University of Aeronautics and Astronautics.
 
 
 You can find my CV here: [Yang's Curriculum Vitae](../assets/CV_Marco (4).pdf)
