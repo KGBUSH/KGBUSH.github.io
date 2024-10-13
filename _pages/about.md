@@ -22,14 +22,13 @@ You can find my CV here: [Yang's Curriculum Vitae](../assets/CV_Marco (4).pdf)
 Selected Publications
 -------
 1. [Decomposition-based Data Augmentation for Time-series Building Load Data](https://dl.acm.org/doi/10.1145/3600100.3623727)
+      Yang Deng, Rui Liang, Dan Wang, Ao Li, and Fu Xiao
+      ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys), 2023
    
-   Yang Deng, Rui Liang, Dan Wang, Ao Li, and Fu Xiao
-   
+2. [Decomposition-based Data Augmentation for Time-series Building Load Data](https://dl.acm.org/doi/10.1145/3600100.3623727) <br>
+   Yang Deng, Rui Liang, Dan Wang, Ao Li, and Fu Xiao <br>
    ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys), 2023
    
 3. [Decomposition-based Data Augmentation for Time-series Building Load Data](https://dl.acm.org/doi/10.1145/3600100.3623727)
-   Yang Deng, Rui Liang, Dan Wang, Ao Li, and Fu Xiao
-   ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys), 2023
-4. [Decomposition-based Data Augmentation for Time-series Building Load Data](https://dl.acm.org/doi/10.1145/3600100.3623727)
    Yang Deng, Rui Liang, Dan Wang, Ao Li, and Fu Xiao
    ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys), 2023
