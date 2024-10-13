@@ -26,7 +26,7 @@ You can find my CV here: [Yang's Curriculum Vitae](../assets/CV_Marco (4).pdf)
 
 Selected Publications
 -------
-1. [AugPlug: An Automated Data Augmentation Model to Enhance Online Building Load Forecasting](https://dl.acm.org/doi/10.1145/3600100.3623727) <br>
+1. [AugPlug: An Automated Data Augmentation Model to Enhance Online Building Load Forecasting](https://dl.acm.org/doi/10.1145/3600100.3623727) <br>
    Yang Deng, Rui Liang, Jiaqi Fan, and Dan Wang <br>
    *ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys)*, 2024
    
@@ -43,7 +43,7 @@ Selected Publications
    *ACM International Conference on Future Energy Systems (e-Energy)*, 2021
 
 
-Selected Honors..
+Selected Honors...
 -------
 - Best Presentation Award at the 2nd PolyU Research Student Conference (PRSC 2024)
 - Best Poster Runner Up - ACM e-Energy 2024
