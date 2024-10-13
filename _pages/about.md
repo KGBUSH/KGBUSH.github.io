@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-I am a final-year PhD student in the Department of Computing at Hong Kong Polytechnic University (香港理工大学), supervised by [Prof. Dan WANG](https://www4.comp.polyu.edu.hk/~csdwang/).
+I am a final-year PhD student in the [Department of Computing](https://www.polyu.edu.hk/comp/) at Hong Kong Polytechnic University (香港理工大学), supervised by [Prof. Dan WANG](https://www4.comp.polyu.edu.hk/~csdwang/).
 My research interest lies in the areas of the evaluation and deployment of machine learning models for cyber-physical energy systems. Some special topics such as data acquisition, data augmentation, and large model for smart building are highly involved.
 
 
