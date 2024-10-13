@@ -41,3 +41,10 @@ Selected Publications
 4. [Energon: A Data Acquisition System for Portable Building Analytics](https://dl.acm.org/doi/abs/10.1145/3447555.3464850) <br>
    He Fang, Yang Deng, Yanhui Xu, Cheng Xu, Dezhi Hong, and Dan Wang <br>
    *ACM International Conference on Future Energy Systems (e-Energy)*, 2021
+
+
+Selected Honors..
+-------
+- Best Presentation Award at the 2nd PolyU Research Student Conference (PRSC 2024)
+- Best Poster Runner Up - ACM e-Energy 2024
+
