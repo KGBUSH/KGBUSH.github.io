@@ -15,12 +15,12 @@ Our goal is to realize truly intelligent, health-aware, and safer environments b
 
 Prior to Northwestern, I was a postdoctoral scholar in the Department of Electrical Engineering and Computer Sciences at UC Berkeley (2023), working with Prabal Dutta. I received the Ph.D. in Electrical Engineering from Columbia University (2022), working with Xiaofan Jiang, and the B.S. in Electrical Engineering from Rice University (2016).
 
-
+You can find my CV here: [Yang's Curriculum Vitae](../assets/CV_Marco (4).pdf)
 
 
 
 Selected Publications
-======
+-------
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
