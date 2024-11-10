@@ -28,7 +28,7 @@ Selected Publications
 -------
 1. [AugPlug: An Automated Data Augmentation Model to Enhance Online Building Load Forecasting](https://dl.acm.org/doi/pdf/10.1145/3671127.3698190) <br>
    Yang Deng, Rui Liang, Jiaqi Fan, and Dan Wang <br>
-   *ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys)*, Best paper candidate, 2024
+   *ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys)*, <span style="color: red;">Best paper candidate</span>, 2024
    
 2. [Decomposition-based Data Augmentation for Time-series Building Load Data](https://dl.acm.org/doi/10.1145/3600100.3623727) <br>
    Yang Deng, Rui Liang, Dan Wang, Ao Li, and Fu Xiao <br>
