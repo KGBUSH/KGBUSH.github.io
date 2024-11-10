@@ -45,6 +45,7 @@ Selected Publications
 
 Selected Honors...
 -------
+- Best Ph.D. Forum Presentation Award <span style="color: gray;">(titled: Improving Cyber-Physical Building Energy System via Large-Scale Machine Learning Evaluation)</span> - ACM BuildSys 2024 
 - Best Presentation Award at the 2nd PolyU Research Student Conference (PRSC 2024)
 - Best Poster Runner Up - ACM e-Energy 2024
 
