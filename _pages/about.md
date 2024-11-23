@@ -23,9 +23,11 @@ You can find my CV here: [Yang's Curriculum Vitae](../assets/CV_Marco (4).pdf)
 
 News
 -------
-- [2024.11] Best Ph.D. Forum Presentation Award - ACM BuildSys 2024 
-- [2024.08] Best Presentation Award at the 2nd PolyU Research Student Conference (PRSC 2024)
-- [2024.06] Best Poster Runner Up - ACM e-Energy 2024
+- **2024.11**: Best Ph.D. Forum Presentation Award for ACM BuildSys 2024!
+- **2024.10**: Our work `AugPlug` and two poster/demo are accepted by ACM BuildSys 2024, all related to our BaiTest Project.
+- **2024.09**: I passed my PhD defense!
+- **2024.08**: Best Presentation Award at the 2nd PolyU Research Student Conference (PRSC 2024)
+- **2024.06**: Best Poster Runner Up for ACM e-Energy 2024!
 
  <!-- <span style="color: gray;">(titled: Improving Cyber-Physical Building Energy System via Large-Scale Machine Learning Evaluation)</span> -->
 
