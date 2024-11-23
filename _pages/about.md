@@ -12,8 +12,9 @@ redirect_from:
 I am a final-year PhD student in the [Department of Computing](https://www.polyu.edu.hk/comp/) at Hong Kong Polytechnic University (香港理工大学), supervised by [Prof. Dan WANG](https://www4.comp.polyu.edu.hk/~csdwang/).
 My research interest lies in the areas of the evaluation and deployment of machine learning models for cyber-physical energy systems. Some special topics such as data acquisition, data augmentation, and large model for smart building are highly involved.
 
+During my PhD study in PolyU, my research interest lies in machine learning evaluation in Building Energy System ....
 
-Prior to PolyU, I gained valuable industry experienceworked as machine learing engineer at Huawei Shanghai Institute and JD.com, two China's leading tech companies. This year-long stint provided me with practical insights into the application of AI in real-world scenarios.
+Prior to PolyU, I gained valuable industry experience worked as machine learing engineer at Huawei Shanghai Institute and JD.com, two China's leading tech companies. This three-year experience provided me with practical insights into the deployment of AI in real-world scenarios, which trggered my PhD.
 I received the M.S. in Computer Science from Tongji University, supervised by Prof. Chenxi Zhang and Prof. Jiangfeng Li, and the B.S. in Computer Science from Nanjing University of Aeronautics and Astronautics.
 
 
@@ -29,7 +30,12 @@ News
 - **Aug 2024**: Best Presentation Award at the 2nd PolyU Research Student Conference (PRSC 2024)
 - **Jun 2024**: Best Poster Runner Up for ACM e-Energy 2024!
 
+
+
  <!-- <span style="color: gray;">(titled: Improving Cyber-Physical Building Energy System via Large-Scale Machine Learning Evaluation)</span> -->
+
+
+
 
 
 Selected Publications
