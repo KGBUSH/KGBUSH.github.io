@@ -13,15 +13,21 @@ I am a final-year PhD student in the [Department of Computing](https://www.polyu
 My research interest lies in the areas of the evaluation and deployment of machine learning models for cyber-physical energy systems. Some special topics such as data acquisition, data augmentation, and large model for smart building are highly involved.
 
 
-Prior to PolyU, I worked as an engineer at Huawei Shanghai Institute and JD.com. 
-I received the M.S. in Computer Science from Tongji University (同济大学), supervised by [Prof. Chenxi Zhang](https://baike.baidu.com/item/%E5%BC%B5%E6%99%A8%E6%9B%A6/6083349), and the B.S. in Computer Science from Nanjing University of Aeronautics and Astronautics (南京航空航天大学).
+Prior to PolyU, I gained valuable industry experienceworked as machine learing engineer at Huawei Shanghai Institute and JD.com, two China's leading tech companies. This year-long stint provided me with practical insights into the application of AI in real-world scenarios.
+I received the M.S. in Computer Science from Tongji University, supervised by Prof. Chenxi Zhang and Prof. Jiangfeng Li, and the B.S. in Computer Science from Nanjing University of Aeronautics and Astronautics.
 
 
 You can find my CV here: [Yang's Curriculum Vitae](../assets/CV_Marco (4).pdf)
 
 
 
+News
+-------
+- [2024.11] Best Ph.D. Forum Presentation Award - ACM BuildSys 2024 
+- [2024.08] Best Presentation Award at the 2nd PolyU Research Student Conference (PRSC 2024)
+- [2024.06] Best Poster Runner Up - ACM e-Energy 2024
 
+ <!-- <span style="color: gray;">(titled: Improving Cyber-Physical Building Energy System via Large-Scale Machine Learning Evaluation)</span> -->
 
 
 Selected Publications
@@ -42,10 +48,4 @@ Selected Publications
    He Fang, Yang Deng, Yanhui Xu, Cheng Xu, Dezhi Hong, and Dan Wang <br>
    *ACM International Conference on Future Energy Systems (e-Energy)*, 2021
 
-
-Selected Honors...
--------
-- Best Ph.D. Forum Presentation Award <span style="color: gray;">(titled: Improving Cyber-Physical Building Energy System via Large-Scale Machine Learning Evaluation)</span> - ACM BuildSys 2024 
-- Best Presentation Award at the 2nd PolyU Research Student Conference (PRSC 2024)
-- Best Poster Runner Up - ACM e-Energy 2024
 
