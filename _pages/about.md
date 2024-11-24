@@ -11,17 +11,38 @@ redirect_from:
 <!-- Previously, I received the M.S. in Computer Science from Tongji University, supervised by Prof. Chenxi Zhang and Prof. Jiangfeng Li, and the B.S. in Computer Science from Nanjing University of Aeronautics and Astronautics. -->
 
 
-I am a postdoctoral researcher at the [Department of Computing](https://www.polyu.edu.hk/comp/) at Hong Kong Polytechnic University (PolyU), working with [Prof. Dan WANG](https://www4.comp.polyu.edu.hk/~csdwang/), who was also my PhD supervisor.
-Prior to PolyU, I gained valuable industry experience worked as machine learing engineer at Huawei Shanghai Institute and JD.com, two China's leading tech companies. This three-year experience provided me with practical insights into the deployment of AI in real-world scenarios, which trggered my PhD.
 
 
 
-During my PhD study in PolyU, my research interest lies in machine learning model evaluation in Building Energy System, with hands-on experience in time series forecasting and the associated applications in building HVAC system. I bring my experience to support the AI competitions for Building E&M Facilities host by Hong Kong government.
-My recent works focus on developing "generalizability" of AI in the building energy system, and I am working on two directions: 1) large foundation model, 2) model ensembling.
 
 
+
+
+
+
+
+
+
+I am a postdoctoral researcher at the [Department of Computing](https://www.polyu.edu.hk/comp/) at Hong Kong Polytechnic University (PolyU), working with [Prof. Dan WANG](https://www4.comp.polyu.edu.hk/~csdwang/), who also supervised my PhD.
+Prior to PolyU, I gained valuable industry experience worked as machine learing engineer at Huawei Shanghai Institute and JD.com, two China's leading tech companies. This three-year experience provided me with practical insights into the deployment of AI in real-world scenarios, which inspired my pursuit of a PhD.
+
+
+During my PhD study in PolyU, my research interest lies in machine learning model evaluation in Building Energy System, with hands-on experience in time series forecasting and applications in building HVAC system. 
+I have also contributed my expertise to support AI competitions for Building E&M Facilities hosted by the Hong Kong government.
+My recent works focus on enhancing "generalizability" of AI in the building energy system, and I am currently exploring two main directions: 1) large foundation models and 2) model ensembling.
+My recent research centers on enhancing the "generalizability" of AI in building energy systems, with a focus on two key areas: 1) large foundation models and 2) model ensembling.
 
 You can find my CV here: [[Yang's Curriculum Vitae]](../assets/CV_Marco.pdf)
+
+
+
+
+
+
+
+
+
+
 
 
 
