@@ -30,7 +30,7 @@ Prior to PolyU, I gained valuable industry experience worked as machine learing 
 During my PhD study in PolyU, my research interest lies in machine learning model evaluation in Building Energy System, with hands-on experience in time series forecasting and applications in building HVAC system. 
 I have also contributed my expertise to support AI competitions for Building E&M Facilities hosted by the Hong Kong government.
 My recent works focus on enhancing "generalizability" of AI in the building energy system, and I am currently exploring two main directions: 1) large foundation models and 2) model ensembling.
-My recent research centers on enhancing the "generalizability" of AI in building energy systems, with a focus on two key areas: 1) large foundation models and 2) model ensembling.
+My recent research centers on enhancing the "generalizability" of AI in (building) energy systems, with a focus on two key areas: 1) large foundation models and 2) model ensembling.
 
 You can find my CV here: [[Yang's Curriculum Vitae]](../assets/CV_Marco.pdf)
 
