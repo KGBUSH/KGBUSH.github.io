@@ -21,7 +21,7 @@ My recent works focus on developing "generalizability" of AI in the building ene
 
 
 
-You can find my CV here: [[Yang's Curriculum Vitae]](../assets/CV_Marco (4).pdf)
+You can find my CV here: [[Yang's Curriculum Vitae]](../assets/CV_Marco.pdf)
 
 
 
