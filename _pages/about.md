@@ -16,17 +16,19 @@ Prior to PolyU, I gained valuable industry experience worked as machine learing 
 
 
 
-During my PhD study in PolyU, my research interest lies in machine learning evaluation in Building Energy System ....
+During my PhD study in PolyU, my research interest lies in machine learning model evaluation in Building Energy System, with hands-on experience in time series forecasting and the associated applications in building HVAC system. I bring my experience to support the AI competitions for Building E&M Facilities host by Hong Kong government.
+My recent works focus on developing "generalizability" of AI in the building energy system, and I am working on two directions: 1) large foundation model, 2) model ensembling.
 
 
-You can find my CV here: [Yang's Curriculum Vitae](../assets/CV_Marco (4).pdf)
+
+You can find my CV here: [[Yang's Curriculum Vitae]](../assets/CV_Marco (4).pdf)
 
 
 
 News
 -------
 - **Nov 2024**: Best Ph.D. Forum Presentation Award for ACM BuildSys 2024!
-- **Oct 2024**: Our work [AugPlug](https://dl.acm.org/doi/pdf/10.1145/3671127.3698190) and two poster/demo are accepted by ACM BuildSys 2024, all related to our BaiTest Project.
+- **Oct 2024**: Our work [AugPlug](https://dl.acm.org/doi/pdf/10.1145/3671127.3698190) and two poster/demo are accepted by ACM BuildSys 2024, all related to our [`BaiTest`](https://www.youtube.com/playlist?list=PL_yx_pJIQs0yL-GDSWDZO2IpWZaJ6Zqwf) Project.
 - **Sep 2024**: I passed my PhD defense!
 - **Aug 2024**: Best Presentation Award at the 2nd PolyU Research Student Conference (PRSC 2024)
 - **Jun 2024**: Best Poster Runner Up for ACM e-Energy 2024!
