@@ -7,15 +7,15 @@ redirect_from:
 ---
 
 
+<!-- My research interest lies in the areas of the evaluation and deployment of machine learning models for cyber-physical energy systems. Some special topics such as data acquisition, data augmentation, and large model for smart building are highly involved.-->
 
 
-I am a final-year PhD student in the [Department of Computing](https://www.polyu.edu.hk/comp/) at Hong Kong Polytechnic University (香港理工大学), supervised by [Prof. Dan WANG](https://www4.comp.polyu.edu.hk/~csdwang/).
-My research interest lies in the areas of the evaluation and deployment of machine learning models for cyber-physical energy systems. Some special topics such as data acquisition, data augmentation, and large model for smart building are highly involved.
-
-During my PhD study in PolyU, my research interest lies in machine learning evaluation in Building Energy System ....
-
+I am a postdoctoral researcher at the [Department of Computing](https://www.polyu.edu.hk/comp/) at Hong Kong Polytechnic University (PolyU), working with [Prof. Dan WANG](https://www4.comp.polyu.edu.hk/~csdwang/), who was also my PhD supervisor.
 Prior to PolyU, I gained valuable industry experience worked as machine learing engineer at Huawei Shanghai Institute and JD.com, two China's leading tech companies. This three-year experience provided me with practical insights into the deployment of AI in real-world scenarios, which trggered my PhD.
 I received the M.S. in Computer Science from Tongji University, supervised by Prof. Chenxi Zhang and Prof. Jiangfeng Li, and the B.S. in Computer Science from Nanjing University of Aeronautics and Astronautics.
+
+
+During my PhD study in PolyU, my research interest lies in machine learning evaluation in Building Energy System ....
 
 
 You can find my CV here: [Yang's Curriculum Vitae](../assets/CV_Marco (4).pdf)
