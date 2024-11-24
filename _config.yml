@@ -24,11 +24,11 @@ author:
   avatar           : "homepageimage.png"
   name             : "Yang Deng (邓扬)"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Student, "
+  bio              : # "PhD Student, "
   location         : "Hong Kong"
-  employer         : "COMP, The Hong Kong Polytechnic University"
+  employer         : "COMP, PolyU"
   uri              : # URL
-  email            : "yang2.deng@connect.polyu.hk" 
+  email            : "marco.deng@polyu.edu.hk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
