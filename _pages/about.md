@@ -31,7 +31,7 @@ During my PhD study in PolyU, my research interest lies in machine learning mode
 I have also contributed my expertise to support AI competitions for Building E&M Facilities hosted by the Hong Kong government.
 My recent research centers on enhancing the "generalizability" of AI in (building) energy systems, with a focus on two key areas: 1) large foundation models and 2) ML model fusion.
 
-You can find my CV here: [[Yang's Curriculum Vitae]](../assets/CV_Marco.pdf)
+You can find my CV here: [[Yang's Curriculum Vitae]](../assets/CV_Marco (5).pdf)
 
 
 
