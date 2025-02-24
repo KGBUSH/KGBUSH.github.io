@@ -23,7 +23,7 @@ redirect_from:
 
 
 
-I am a postdoctoral researcher at the [Department of Computing](https://www.polyu.edu.hk/comp/) at Hong Kong Polytechnic University (PolyU), working with [Prof. Dan WANG](https://www4.comp.polyu.edu.hk/~csdwang/), who also supervised my PhD.
+I am a Postdoctoral Fellow at the [Department of Computing](https://www.polyu.edu.hk/comp/) at Hong Kong Polytechnic University (PolyU), working with [Prof. Dan WANG](https://www4.comp.polyu.edu.hk/~csdwang/), who also supervised my PhD.
 Prior to PolyU, I gained valuable industry experience worked as machine learing engineer at Huawei Shanghai Institute and JD.com, two China's leading tech companies. This three-year experience provided me with practical insights into the deployment of AI in real-world scenarios, which inspired my pursuit of a PhD.
 
 
