@@ -24,12 +24,16 @@ redirect_from:
 
 
 I am a Postdoctoral Fellow at the [Department of Computing](https://www.polyu.edu.hk/comp/) at Hong Kong Polytechnic University (PolyU), working with [Prof. Dan WANG](https://www4.comp.polyu.edu.hk/~csdwang/), who also supervised my PhD.
-Prior to PolyU, I gained valuable industry experience worked as machine learing engineer at Huawei Shanghai Institute and JD.com, two China's leading tech companies. This three-year experience provided me with practical insights into the deployment of AI in real-world scenarios, which inspired my pursuit of a PhD.
 
 
 During my PhD study in PolyU, my research interest lies in machine learning model evaluation in Building Energy System, with hands-on experience in time series forecasting and applications in building HVAC system. 
 I have also contributed my expertise to support AI competitions for Building E&M Facilities hosted by the Hong Kong government.
+
 My recent research centers on enhancing the "generalizability" of AI in (building) energy systems, with a focus on two key areas: 1) large foundation models and 2) ML model fusion.
+
+
+Prior to PolyU, I gained valuable industry experience worked as machine learing engineer at Huawei Shanghai Institute and JD.com, two China's leading tech companies. This experience provided me with practical insights into the deployment of AI in real-world scenarios, which inspired my pursuit of a PhD.
+
 
 You can find my CV here: [[Yang's Curriculum Vitae]](../assets/CV_Marco (5).pdf)
 
