@@ -35,7 +35,7 @@ My recent research centers on enhancing the "generalizability" of AI in (buildin
 Prior to PolyU, I gained valuable industry experience worked as machine learing engineer at Huawei Shanghai Institute and JD.com, two China's leading tech companies. This experience provided me with practical insights into the deployment of AI in real-world scenarios, which inspired my pursuit of a PhD.
 
 
-You can find my CV here: [[Yang's Curriculum Vitae]](../assets/CV_Marco (5).pdf)
+You can find my CV here: [[Yang's Curriculum Vitae]](../assets/CV_Marco (5).pdf) (last updated Dec 2024)
 
 
 
