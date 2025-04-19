@@ -53,10 +53,10 @@ You can find my CV here: [[Yang's Curriculum Vitae]](../assets/CV_Marco (5).pdf)
 News
 -------
 - **Dec 2024**: I work as a Postdoctoral Fellow (funded by Research Talent Hub of _Innovation and Technology Commission, Hong Kong_) in the Department of Computing at PolyU.
-- **Nov 2024**: Best Ph.D. Forum Presentation Award at ACM BuildSys 2024 in Hangzhou, China! <span style="color: gray;">(for my presentation: Improving Cyber-Physical Building Energy System via Large-Scale Machine Learning Evaluation)</span> 
+- **Nov 2024**: Best Ph.D. Forum Presentation Award at ACM BuildSys 2024 in Hangzhou, China! <span style="color: gray;">(for my presentation: Improving Cyber-Physical Building Energy System via Large-Scale Machine Learning Evaluation)</span>. 
 - **Oct 2024**: Our work [AugPlug](https://dl.acm.org/doi/pdf/10.1145/3671127.3698190) and two poster/demo are accepted by ACM BuildSys 2024, all related to our [`BaiTest`](https://www.youtube.com/playlist?list=PL_yx_pJIQs0yL-GDSWDZO2IpWZaJ6Zqwf) Project.
-- **Sep 2024**: I passed my PhD defense! Many thanks to Prof. Dan WANG
-- **Aug 2024**: Best Presentation Award at the 2nd PolyU Research Student Conference (PRSC 2024)
+- **Sep 2024**: I passed my PhD defense! Many thanks to Prof. Dan WANG!
+- **Aug 2024**: Best Presentation Award at the 2nd PolyU Research Student Conference (PRSC 2024).
 - **Jun 2024**: Best Poster Runner Up at ACM e-Energy 2024 in Singapore!
 
 
