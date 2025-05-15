@@ -30,7 +30,7 @@ During my PhD study in PolyU, my research interest lies in machine learning mode
 I have also contributed my expertise to support AI competitions for Building E&M Facilities hosted by the Hong Kong government.
 
 My recent research centers on enhancing the *"generalizability"* of AI in (building) energy systems, with a focus on two following perspectives. Both have some prelimilary works.
- - *Large Foundation Models*: [[Time-series_FM_adaptation]](https://arxiv.org/pdf/2412.17285) 
+ - *Large Foundation Models*: [[Adapt FM_to BLF]](https://arxiv.org/pdf/2412.17285) 
  - *ML Model Fusion*: [[HVAC_control_at_scale_1]](https://dl.acm.org/doi/pdf/10.1145/3671127.3698705), [[HVAC_control_at_scale_2]](https://arxiv.org/pdf/2505.02439)
 
 
