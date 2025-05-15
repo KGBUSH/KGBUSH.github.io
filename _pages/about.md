@@ -31,7 +31,7 @@ I have also contributed my expertise to support AI competitions for Building E&M
 
 My recent research centers on enhancing the *"generalizability"* of AI in (building) energy systems, with a focus on two following perspectives. Both have some prelimilary works.
  - *Large Foundation Models*: [[Adapt FM_to BLF]](https://arxiv.org/pdf/2412.17285) 
- - *ML Model Fusion*: [[HVAC_control_at_scale_1]](https://dl.acm.org/doi/pdf/10.1145/3671127.3698705), [[HVAC_control_at_scale_2]](https://arxiv.org/pdf/2505.02439)
+ - *ML Model Fusion*: [[HVAC_control_1]](https://dl.acm.org/doi/pdf/10.1145/3671127.3698705), [[HVAC_control_2]](https://arxiv.org/pdf/2505.02439)
 
 
 Prior to PolyU, I gained valuable industry experience worked as machine learing engineer at Huawei Shanghai Institute and JD.com, two China's leading tech companies. This experience provided me with practical insights into the deployment of AI in real-world scenarios, which inspired my pursuit of a PhD.
