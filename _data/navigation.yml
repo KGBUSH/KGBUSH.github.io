@@ -30,4 +30,5 @@ main:
     url: /markdown/
 
   - title: "Research"
-    url: /_portfolio/portfolio-1.md
+    # url: /_portfolio/portfolio-1.md
+    url: /portfolio-1/
