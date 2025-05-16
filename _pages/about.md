@@ -69,23 +69,27 @@ News
 
 Selected Publications
 -------
-1. [AugPlug: An Automated Data Augmentation Model to Enhance Online Building Load Forecasting](https://dl.acm.org/doi/pdf/10.1145/3671127.3698190) <br>
+1. AugPlug: An Automated Data Augmentation Model to Enhance Online Building Load Forecasting <br>
    Yang Deng, Rui Liang, Yaohui Liu, Jiaqi Fan, and Dan Wang <br>
    *ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys)*, <span style="color: red;">Best paper candidate</span>, 2024,
+   [[pdf]](../assets/representative_papers/Augplug.pdf)
    [[slides]](../assets/research_slides/AugPlug_BuildSys24_1108.pdf)
    
-3. [Decomposition-based Data Augmentation for Time-series Building Load Data](https://dl.acm.org/doi/10.1145/3600100.3623727) <br>
+3. Decomposition-based Data Augmentation for Time-series Building Load Data <br>
    Yang Deng, Rui Liang, Dan Wang, Ao Li, and Fu Xiao <br>
    *ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys)*, 2023,
+   [[pdf]](../assets/representative_papers/DAST.pdf)
    [[slides]](../assets/research_slides/DAST-slides-buildsys-1115.pdf)
    
-4. [Behavior testing of load forecasting models using BuildChecks](https://dl.acm.org/doi/abs/10.1145/3538637.3538841) <br>
+5. Behavior testing of load forecasting models using BuildChecks <br>
    Yang Deng, Jiaqi Fan, Hao Jiang, Fang He, Dan Wang, Ao Li, and Fu Xiao <br>
    *ACM International Conference on Future Energy Systems (e-Energy)*, 2022,
+   [[pdf]](../assets/representative_papers/BuildChecks.pdf)
    [[slides]](../assets/research_slides/BuildChecks-Eenergy2022-slides-final.pdf)
 
-5. [Energon: A Data Acquisition System for Portable Building Analytics](https://dl.acm.org/doi/abs/10.1145/3447555.3464850) <br>
+7. Energon: A Data Acquisition System for Portable Building Analytics <br>
    He Fang, Yang Deng, Yanhui Xu, Cheng Xu, Dezhi Hong, and Dan Wang <br>
    *ACM International Conference on Future Energy Systems (e-Energy)*, 2021,
+   [[pdf]](../assets/representative_papers/Energon.pdf)
    [[slides]](../assets/research_slides/Energon_e-energy2021.pdf)
 
