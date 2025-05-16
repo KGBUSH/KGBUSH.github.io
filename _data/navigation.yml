@@ -30,5 +30,5 @@ main:
   #   url: /markdown/
 
   - title: "Research"
-    url: /_pages/about.md
+    url: /research/
     
