@@ -14,8 +14,8 @@ main:
   # - title: "Teaching"
   #   url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Portfolio"
+  #   url: /portfolio/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
@@ -26,9 +26,9 @@ main:
   - title: "Chinese CV"
     url: /assets/CV_Marco_Chinese_Jan11.pdf
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
 
   - title: "Research"
-    # url: /_portfolio/portfolio-1.md
-    url: /portfolio-1/
+    url: /_pages/about.md
+    
