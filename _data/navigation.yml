@@ -19,6 +19,10 @@ main:
         
   # - title: "Blog Posts"
   #   url: /year-archive/
+
+  - title: "Research"
+    url: /research/
+
     
   - title: "CV"
     url: /assets/CV_Marco (5).pdf
@@ -29,6 +33,4 @@ main:
   # - title: "Guide"
   #   url: /markdown/
 
-  - title: "Research"
-    url: /research/
-    
+ 
