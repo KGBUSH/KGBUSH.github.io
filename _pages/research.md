@@ -6,9 +6,7 @@ permalink: /research/
 
 
 
-
-<p align="center">
-  <img src="/images/research_framework.png" alt="Framework" width="400"/>
-</p>
-
-这里是你的研究脉络描述文字。
+<div style="padding-left: 40px;">
+  <img src="/images/research_framework.png" alt="Framework" width="1000"/>
+  <p>这里是你的研究脉络描述文字。</p>
+</div>
