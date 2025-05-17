@@ -42,8 +42,10 @@
 
 
 .author__avatar img {
-  width: 120px !important;
-  height: 120px !important;
-  object-fit: cover;
-  image-rendering: auto;
+  width: 150px !important;         /* 设置宽度 */
+  height: 150px !important;        /* 设置高度 */
+  object-fit: cover;               /* 保持比例裁剪，防止失真 */
+  border-radius: 0 !important;     /* 保证图片为方形 */
+  image-rendering: auto;           /* 浏览器自动选择最佳渲染方式 */
+  display: block;
 }
