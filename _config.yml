@@ -21,7 +21,7 @@ repository               : "KGBUSH/KGBUSH.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information: "homepageimage.png"
-  avatar           : "homepage0526.jpg"
+  avatar           : "homepage0526.png"
   name             : "Yang Deng (邓扬)"
   pronouns         : # example: "she/her"  
   bio              :  "Postdoc "
