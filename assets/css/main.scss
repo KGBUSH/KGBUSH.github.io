@@ -41,11 +41,5 @@
 @import "print";
 
 
-.author__avatar img {
-  // width: 250px !important;         /* 设置宽度 */
-  // height: 300px !important;        /* 设置高度 */
-  object-fit: cover;               /* 保持比例裁剪，防止失真 */
-  border-radius: 0 !important;  /* 保证图片为直角 */
-  image-rendering: auto;           /* 浏览器自动选择最佳渲染方式 */
-  display: block;
+
 }
