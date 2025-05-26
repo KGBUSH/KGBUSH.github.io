@@ -53,7 +53,7 @@ My CV: [[Yang's Curriculum Vitae]](../assets/CV_Marco (5).pdf) , [[Yang's 中文
 
 News
 -------
-- **May 2025**: Two papers on foundation model and data augmentation accepted by IJCAI'25 and ACM TOSN.
+- **May 2025**: Two papers on foundation model and data augmentation got accepted by IJCAI'25 and ACM TOSN.
 - **Dec 2024**: I work as a Postdoctoral Fellow (funded by Research Talent Hub of _Innovation and Technology Commission, Hong Kong_) in the Department of Computing at PolyU.
 - **Nov 2024**: Best Ph.D. Forum Presentation Award at ACM BuildSys 2024 in Hangzhou, China! <span style="color: gray;">(for my presentation: Improving Cyber-Physical Building Energy System via Large-Scale Machine Learning Evaluation)</span>. 
 - **Oct 2024**: Our work [AugPlug](https://dl.acm.org/doi/pdf/10.1145/3671127.3698190) and two poster/demo are accepted by ACM BuildSys 2024, all related to our [`BaiTest`](https://www.youtube.com/playlist?list=PL_yx_pJIQs0yL-GDSWDZO2IpWZaJ6Zqwf) Project.
