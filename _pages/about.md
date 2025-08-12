@@ -32,7 +32,7 @@ I have also contributed my expertise to support AI competitions for Building E&M
 More details of my overall research framework can be found [here](/research/).
 
 
-My recent research centers on enhancing the *"generalizability"* of AI in (building) energy systems, with a focus on two following perspectives: a) *Large Foundation Model*: [[Adapt FM_to BLF]](https://arxiv.org/pdf/2412.17285) , b) *Model Fusion*: [[HVAC_control1]](https://dl.acm.org/doi/pdf/10.1145/3671127.3698705), [[HVAC_control2]](https://arxiv.org/pdf/2505.02439)
+My recent research centers on enhancing the *"generalizability"* of AI in (building) energy systems, with a focus on two following perspectives: a) *Large Foundation Model*: [[Adapt FM_to BLF]](https://arxiv.org/pdf/2412.17285) , b) *Model Fusion*: [[HVAC_control1]](https://dl.acm.org/doi/pdf/10.1145/3671127.3698705), [[HVAC_control2]](https://arxiv.org/pdf/2505.02439).
 
  <!--
 My recent research centers on enhancing the *"generalizability"* of AI in (building) energy systems, with a focus on two following perspectives. Both have some prelimilary works. 
