@@ -60,7 +60,7 @@ My CV: [[Yang's Curriculum Vitae]](../assets/CV_Marco (5).pdf) , [[Yang's 中文
 
 News
 -------
-- **Aug 2025**: Our project on _AIoT-based building energy control_ has been shortlisted for the final assessment in the [_PolyU International Future Challenge_](https://www.polyu.edu.hk/kteo/entrepreneurship/international-future-challenge/?sc_lang=en) contest.
+- **Aug 2025**: Our project on _AIoT-based building energy control_ has been shortlisted for the final assessment in the [_PolyU International Future Challenge_](https://www.polyu.edu.hk/kteo/entrepreneurship/international-future-challenge/?sc_lang=en) entrepreneurship contest.
 - **Jul-Aug 2025**: I will be a Visiting Fellow at Graduate School of Information Science and Technology, Osaka University, Japan, collaborating with Prof. Ittetsu Taniguchi and Dr. Dafang Zhao. 
 - **May 2025**: Two papers on foundation model and data augmentation got accepted by IJCAI'25 and ACM TOSN.
 - **Dec 2024**: I work as a Postdoctoral Fellow (funded by Research Talent Hub of _Innovation and Technology Commission, Hong Kong_) in the Department of Computing at PolyU.
