@@ -54,7 +54,7 @@ My CV: [[Yang's Curriculum Vitae]](../assets/CV_Marco (5).pdf) , [[Yang's 中文
 
 News
 -------
-<div style="font-size: 14px;">
+<p style="font-size: 14px;">
 - **Aug 2025**: Our project on _AIoT-based building energy control_ has been shortlisted for the final assessment in the "_PolyU International Future Challenge_" entrepreneurship contest.
 - **Jul-Aug 2025**: I will be a Visiting Fellow at Graduate School of Information Science and Technology, Osaka University, Japan, collaborating with Prof. Ittetsu Taniguchi and Dr. Dafang Zhao. 
 - **May 2025**: Two papers on foundation model and data augmentation got accepted by IJCAI'25 and ACM TOSN.
@@ -64,7 +64,7 @@ News
 - **Sep 2024**: I passed my PhD defense! And many thanks to Prof. Dan WANG!
 - **Aug 2024**: Best Presentation Award at the 2nd PolyU Research Student Conference (PRSC 2024).
 - **Jun 2024**: Best Poster Runner Up at ACM e-Energy 2024 in Singapore!
-</div>
+</p>
 
 
  <!-- <span style="color: gray;">(titled: Improving Cyber-Physical Building Energy System via Large-Scale Machine Learning Evaluation)</span> -->
