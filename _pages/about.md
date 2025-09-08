@@ -38,7 +38,8 @@ More details of my overall research framework can be found [here](/research/).
 
 
 Prior to PolyU, I gained valuable industry experience worked as machine learing engineer at Huawei Shanghai Institute and JD.com, two China's leading tech companies. This experience provided me with practical insights into the deployment of AI in real-world scenarios, which inspired my pursuit of a PhD.
-My CV: [[Yang's Curriculum Vitae]](../assets/CV_Marco (5).pdf) , [[Yang's 中文简历]](../assets/CV_Marco_Chinese_Jan11.pdf)  (both last updated Mar 2025).
+My CV: [[Yang's Curriculum Vitae]](../assets/CV_Marco (5).pdf) , [[Yang's 中文简历]](../assets/CV_Marco_Chinese_Jan11.pdf).
+<!--(both last updated Mar 2025)-->
 
 
 
