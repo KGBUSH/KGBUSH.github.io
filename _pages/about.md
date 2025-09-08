@@ -29,7 +29,7 @@ I am a ITF-funded Postdoctoral Fellow at the [Department of Computing](https://w
 
 During my PhD study in PolyU, my research interest lies in machine learning model evaluation in Building Energy System, with hands-on experience in time series forecasting and applications in building HVAC system. 
 I have also contributed my expertise to support AI competitions for Building E&M Facilities hosted by the Hong Kong government.
-My recent research centers on enhancing the *"generalizability"* of AI in (building) energy systems, with a focus on two following perspectives: a) *Large Foundation Model* and b) *Model Ensemble*.
+My recent research centers on enhancing the *"Scalability"* of AI in (building) energy systems, with a focus on two following perspectives: a) *Large Foundation Model* and b) *Model Ensemble*.
 More details of my overall research framework can be found [here](/research/).
 
 <!--My recent research centers on enhancing the *"Scalability"* of AI in (building) energy systems, with a focus on two following perspectives: a) *Large Foundation Model*: [[Adapt FM_to BLF]](https://arxiv.org/pdf/2412.17285) , b) *Model Ensemble*: [[HVAC_control1]](https://dl.acm.org/doi/pdf/10.1145/3671127.3698705), [[HVAC_control2]](https://arxiv.org/pdf/2505.02439).  -->
