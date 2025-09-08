@@ -24,7 +24,9 @@ redirect_from:
 
 
 
-I am a ITF-funded Postdoctoral Fellow at the [Department] of Computing at Hong Kong Polytechnic University (PolyU), working with [Prof. Dan WANG](https://www4.comp.polyu.edu.hk/~csdwang/), who also supervised my PhD.
+I am a ITF-funded Postdoctoral Fellow at the Department of Computing at Hong Kong Polytechnic University (PolyU), working with [Prof. Dan WANG](https://www4.comp.polyu.edu.hk/~csdwang/), who also supervised my PhD.
+
+
 
 
 During my PhD study in PolyU, my research interest lies in machine learning model evaluation in Building Energy System, with hands-on experience in time series forecasting and applications in building HVAC system. 
