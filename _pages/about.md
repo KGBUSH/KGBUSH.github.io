@@ -57,6 +57,8 @@ My CV: [[Yang's Curriculum Vitae]](../assets/CV_Marco (5).pdf).
 
 News
 -------
+- <span style="font-size: 14px;">**May 2025**: Three Papers on building metadata modeling, carbon modeling, HVAC aggregation got accepted by Knowledge-Based Systems (KBS), NeurIPS 2025
+, ACM BuildSys'25.</span>
 - <span style="font-size: 14px;">**Aug 2025**: Our project on _AIoT-based building energy control_ has been shortlisted for the final assessment in the "_PolyU International Future Challenge_" entrepreneurship contest.</span>
 - <span style="font-size: 14px;">**Jul-Aug 2025**: I will be a Visiting Fellow at Graduate School of Information Science and Technology, Osaka University, Japan, collaborating with Prof. Ittetsu Taniguchi and Dr. Dafang Zhao.</span>
 - <span style="font-size: 14px;">**May 2025**: Three Papers on foundation model (FM) and data augmentation (DA) got accepted: WeatherFM accepted by IJCAI'25, AugPlug+ accepted by ACM TOSN, FM fine-tuning for building analytics accepted by ICML CO-BUILD'25.</span>
