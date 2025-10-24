@@ -63,7 +63,7 @@ News
 - <span style="font-size: 14px;">**Dec 2024**: I work as a Postdoctoral Fellow (funded by Research Talent Hub of _Innovation and Technology Commission, Hong Kong_) in the Department of Computing at PolyU.</span>
 - <span style="font-size: 14px;">**Nov 2024**: Best Ph.D. Forum Presentation Award at ACM BuildSys 2024 in Hangzhou, China! <span style="color: gray;">(for my presentation: Improving Cyber-Physical Building Energy System via Large-Scale Machine Learning Evaluation)</span>.</span>
 - <span style="font-size: 14px;">**Oct 2024**: Our work AugPlug and two poster/demo are accepted by ACM BuildSys 2024, all related to our [`BaiTest`](https://www.youtube.com/playlist?list=PL_yx_pJIQs0yL-GDSWDZO2IpWZaJ6Zqwf) Project.</span>
-- <span style="font-size: 14px;">**Sep 2024**: I passed my PhD defense! And many thanks to Prof. Dan WANG!</span>
+- <span style="font-size: 14px;">**Sep 2024**: <span style="color: blue;">I passed my PhD defense! And many thanks to Prof. Dan WANG!</span></span>
 - <span style="font-size: 14px;">**Aug 2024**: Best Presentation Award at the 2nd PolyU Research Student Conference (PRSC 2024).</span>
 - <span style="font-size: 14px;">**Jun 2024**: Best Poster Runner Up at ACM e-Energy 2024 in Singapore!</span>
 
