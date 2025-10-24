@@ -54,16 +54,16 @@ My CV: [[Yang's Curriculum Vitae]](../assets/CV_Marco (5).pdf).
 
 News
 -------
-- <span style="font-size: 14px;">**Oct 2025**: Delivered an <span style="color: #4969B2;">invited talk</span> titled “Empowering AI Scalability in Building Energy Management Systems” at the HKCS (香港電脳学会) Artificial Intelligence Seminar: AI in Engineering and Construction.</span>
+- <span style="font-size: 14px;">**Oct 2025**: Delivered an <span style="color: #4682B4;">invited talk</span> titled “Empowering AI Scalability in Building Energy Management Systems” at the HKCS (香港電脳学会) Artificial Intelligence Seminar: AI in Engineering and Construction.</span>
 - <span style="font-size: 14px;">**Sep 2025**: Three <span style="color: #4682B4;">papers</span> on building metadata modeling, carbon modeling, HVAC aggregation control optimization are accepted by Knowledge-Based Systems (KBS), NeurIPS 2025
 , ACM BuildSys'25.</span>
-- <span style="font-size: 14px;">**Aug 2025**: Our project on _AIoT-based building energy control_ has been shortlisted for the final assessment in the "_PolyU International Future Challenge_"  <span style="color: #274690;">entrepreneurship contest</span>.</span>
-- <span style="font-size: 14px;">**Jul-Aug 2025**: I will be a <span style="color: #14213D;"> Visiting Fellow </span> at Graduate School of Information Science and Technology, Osaka University, Japan, collaborating with Prof. Ittetsu Taniguchi and Dr. Dafang Zhao.</span>
-- <span style="font-size: 14px;">**May 2025**: Three <span style="color: blue;"> papers</span> on foundation model (FM) and data augmentation (DA) got accepted: WeatherFM accepted by IJCAI'25, AugPlug+ accepted by ACM TOSN, FM fine-tuning for building analytics accepted by ICML CO-BUILD'25.</span>
+- <span style="font-size: 14px;">**Aug 2025**: Our project on _AIoT-based building energy control_ has been shortlisted for the final assessment in the "_PolyU International Future Challenge_"  <span style="color: #4682B4;">entrepreneurship contest</span>.</span>
+- <span style="font-size: 14px;">**Jul-Aug 2025**: I will be a <span style="color: #4682B4;"> Visiting Fellow </span> at Graduate School of Information Science and Technology, Osaka University, Japan, collaborating with Prof. Ittetsu Taniguchi and Dr. Dafang Zhao.</span>
+- <span style="font-size: 14px;">**May 2025**: Three <span style="color: #4682B4;"> papers</span> on foundation model (FM) and data augmentation (DA) got accepted: WeatherFM accepted by IJCAI'25, AugPlug+ accepted by ACM TOSN, FM fine-tuning for building analytics accepted by ICML CO-BUILD'25.</span>
 - <span style="font-size: 14px;">**Dec 2024**: I work as a Postdoctoral Fellow (funded by Research Talent Hub of _Innovation and Technology Commission, Hong Kong_) in the Department of Computing at PolyU.</span>
-- <span style="font-size: 14px;">**Nov 2024**: Best Ph.D. Forum Presentation Award at ACM BuildSys 2024 in Hangzhou, China! <span style="color: gray;">(for my presentation: Improving Cyber-Physical Building Energy System via Large-Scale Machine Learning Evaluation)</span>.</span>
+- <span style="font-size: 14px;">**Nov 2024**: Best Ph.D. Forum Presentation Award at ACM BuildSys 2024 in Hangzhou, China! (for my presentation: Improving Cyber-Physical Building Energy System via Large-Scale Machine Learning Evaluation).</span>
 - <span style="font-size: 14px;">**Oct 2024**: Our work AugPlug and two poster/demo are accepted by ACM BuildSys 2024, all related to our [`BaiTest`](https://www.youtube.com/playlist?list=PL_yx_pJIQs0yL-GDSWDZO2IpWZaJ6Zqwf) Project.</span>
-- <span style="font-size: 14px;">**Sep 2024**: <span style="color: blue;">I passed my PhD defense! And many thanks to Prof. Dan WANG!</span></span>
+- <span style="font-size: 14px;">**Sep 2024**: <span style="color: #4682B4;">I passed my PhD defense! And many thanks to Prof. Dan WANG!</span></span>
 - <span style="font-size: 14px;">**Aug 2024**: Best Presentation Award at the 2nd PolyU Research Student Conference (PRSC 2024).</span>
 - <span style="font-size: 14px;">**Jun 2024**: Best Poster Runner Up at ACM e-Energy 2024 in Singapore!</span>
 
