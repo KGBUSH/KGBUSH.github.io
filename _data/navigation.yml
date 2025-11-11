@@ -27,8 +27,8 @@ main:
   - title: "CV"
     url: /assets/CV_Marco (5).pdf
 
-  - title: "Chinese CV"
-    url: /assets/CV_Marco_Chinese_Jan11.pdf
+  # - title: "Chinese CV"
+  #   url: /assets/CV_Marco_Chinese_Jan11.pdf
     
   # - title: "Guide"
   #   url: /markdown/
