@@ -16,3 +16,8 @@ permalink: /research/
     <p>These efforts form a complete loop from theory to application, providing key technological support for smart building initiatives.</p>
   </div>
 </div>
+
+
+<div style="width: 800px; text-align: right; font-size: 13px; color: #666; margin-top: 20px;">
+  — updated by Mar 2025
+</div>
