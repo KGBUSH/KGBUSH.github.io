@@ -24,7 +24,7 @@ redirect_from:
 
 
 
-I am a ITF-funded Postdoctoral Fellow at the Department of Computing at Hong Kong Polytechnic University (PolyU), working with [Prof. Dan WANG](https://wangdan.people.ust.hk/), who also supervised my PhD.
+I am a ITF-funded Postdoctoral Fellow at the Department of Computing at Hong Kong Polytechnic University (PolyU), working with [Prof. Dan WANG](https://wangdan.people.ust.hk/) and Prof. Chen Jason Zhang.
 
 
 
