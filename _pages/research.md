@@ -4,6 +4,9 @@ title: "Research"
 permalink: /research/
 ---
 
+<div style="width: 800px; text-align: right; font-size: 15px; color: #666; margin-top: 20px;">
+  — Last updated in Mar 2025
+</div>
 
 
 <div style="display: flex; flex-direction: column; align-items: center;">
@@ -18,6 +21,3 @@ permalink: /research/
 </div>
 
 
-<div style="width: 800px; text-align: right; font-size: 13px; color: #666; margin-top: 20px;">
-  — updated by Mar 2025
-</div>
