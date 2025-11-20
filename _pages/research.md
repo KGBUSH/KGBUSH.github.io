@@ -9,7 +9,7 @@ permalink: /research/
 <div style="display: flex; flex-direction: column; align-items: center;">
   <img src="/images/research_framework.png" alt="Framework" width="800" style="margin-top: 42px; margin-bottom: 34px;"/>
 
-  <div style="width: 800px; text-align: right; font-size: 15px; color: #4682B4; margin-top: -10px; margin-bottom: 25px;">
+  <div style="width: 800px; text-align: right; font-size: 18px; color: #4682B4; margin-top: -10px; margin-bottom: 25px;">
     — Last updated in Mar 2025
   </div>
 
