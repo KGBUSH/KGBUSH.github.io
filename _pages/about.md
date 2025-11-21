@@ -54,7 +54,7 @@ Prior to PolyU, I gained valuable industry experience worked as machine learing 
 
 News
 -------
-- <span style="font-size: 14px;">**Oct 2025**: Delivered an <span style="color: #4682B4;">invited talk</span> titled “Empowering AI Scalability in Building Energy Management Systems” at the HKCS (香港電脳学会) Artificial Intelligence Seminar: AI in Engineering and Construction ([`link`](https://www.hkcs.org.hk/past-events-2025/)).</span>
+- <span style="font-size: 14px;">**Oct 2025**: Delivered an <span style="color: #4682B4;">invited talk</span> titled “Empowering AI Scalability in Building Energy Management Systems” at the HKCS (香港電脳学会) Artificial Intelligence Seminar: AI in Engineering and Construction ([`link`](https://www.hkcs.org.hk/past-events-2025/)). Many thanks to Prof. Smason Tai's invitation. </span>
 - <span style="font-size: 14px;">**Sep 2025**: Three <span style="color: #4682B4;">papers</span> on building metadata modeling, carbon modeling, HVAC aggregation control optimization are accepted by Knowledge-Based Systems (KBS), NeurIPS 2025
 , ACM BuildSys'25.</span>
 - <span style="font-size: 14px;">**Aug 2025**: Our project on _AIoT-based building energy control_ has been shortlisted for the final assessment in the "_PolyU International Future Challenge_"  <span style="color: #4682B4;">entrepreneurship contest</span>.</span>
