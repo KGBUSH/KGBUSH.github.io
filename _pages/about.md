@@ -43,7 +43,7 @@ Prior to PolyU, I gained valuable industry experience worked as machine learing 
 <!--, [[Yang's 中文简历]](../assets/CV_Marco_Chinese_Jan11.pdf)-->
 
 
-
+Email: yang2.deng@connect.polyu.hk
 
 
 
