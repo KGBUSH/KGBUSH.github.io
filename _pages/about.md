@@ -75,6 +75,12 @@ News
 
 Selected Publications
 -------
+
+1. MetaCloze: A Schema-guided Automated Building Metadata Model Generation System via Information Extraction <br>
+Fang He, Jiaqi Fan, Yang Deng#, et al <br>
+*Knowledge-Based Systems*, 
+
+
 1. Concept Drift-aware Time-series Generation for Online Building Load Forecasting: An Automated Data Augmentation Paradigm <br>
 Yang Deng, Rui Liang, Jiaqi Fan, et al <br>
  *ACM Transactions on Sensor Networks*, 
