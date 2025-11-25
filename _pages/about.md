@@ -76,7 +76,7 @@ News
 Selected Publications
 -------
 1. Concept Drift-aware Time-series Generation for Online Building Load Forecasting: An Automated Data Augmentation Paradigm <br>
-Yang Deng, Rui Liang, Jiaqi Fan, et.al <br>
+Yang Deng, Rui Liang, Jiaqi Fan, et al <br>
  *ACM Transactions on Sensor Networks*, 
 
 
