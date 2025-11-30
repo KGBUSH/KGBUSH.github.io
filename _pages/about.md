@@ -76,6 +76,8 @@ News
 Selected Publications
 -------
 
+<div style="font-size: 15px;">
+
 1. MetaCloze: A Schema-guided Automated Building Metadata Model Generation System via Information Extraction <br>
 Fang He, Jiaqi Fan, Yang Deng\*, et al. (\*corresponding author) <br>
 *Knowledge-Based Systems*, 
@@ -111,4 +113,6 @@ Yang Deng, Rui Liang, Jiaqi Fan, et al. <br>
    [[pdf]](../assets/representative_papers/Energon.pdf)
    [[slides]](../assets/research_slides/Energon_e-energy2021.pdf)
 
+
+</div>
 
