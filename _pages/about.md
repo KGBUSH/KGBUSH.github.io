@@ -76,43 +76,52 @@ News
 Selected Publications
 -------
 
-<div style="font-size: 15px;">
+<ol style="font-size: 0.95em; line-height: 1.4;">
 
-1. MetaCloze: A Schema-guided Automated Building Metadata Model Generation System via Information Extraction <br>
-Fang He, Jiaqi Fan, Yang Deng\*, et al. (\*corresponding author) <br>
-*Knowledge-Based Systems*, 
+  <li>
+    MetaCloze: A Schema-guided Automated Building Metadata Model Generation System via Information Extraction<br>
+    Fang He, Jiaqi Fan, <strong>Yang Deng*</strong>, et al. (*corresponding author)<br>
+    <em>Knowledge-Based Systems</em>
+  </li>
 
+  <li>
+    Concept Drift-aware Time-series Generation for Online Building Load Forecasting: An Automated Data Augmentation Paradigm<br>
+    <strong>Yang Deng</strong>, Rui Liang, Jiaqi Fan, et al.<br>
+    <em>ACM Transactions on Sensor Networks</em>
+  </li>
 
-1. Concept Drift-aware Time-series Generation for Online Building Load Forecasting: An Automated Data Augmentation Paradigm <br>
-Yang Deng, Rui Liang, Jiaqi Fan, et al. <br>
- *ACM Transactions on Sensor Networks*, 
+  <li>
+    AugPlug: An Automated Data Augmentation Model to Enhance Online Building Load Forecasting<br>
+    <strong>Yang Deng</strong>, Rui Liang, Yaohui Liu, Jiaqi Fan, and Dan Wang<br>
+    <em>ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys)</em>, 
+    <span style="color: red;">Best paper candidate</span>, 2024<br>
+    <a href="/assets/representative_papers/Augplug.pdf">[pdf]</a>
+    <a href="/assets/research_slides/AugPlug_BuildSys24_1108.pdf">[slides]</a>
+  </li>
 
+  <li>
+    Decomposition-based Data Augmentation for Time-series Building Load Data<br>
+    <strong>Yang Deng</strong>, Rui Liang, Dan Wang, Ao Li, and Fu Xiao<br>
+    <em>ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys)</em>, 2023<br>
+    <a href="/assets/representative_papers/DAST.pdf">[pdf]</a>
+    <a href="/assets/research_slides/DAST-slides-buildsys-1115.pdf">[slides]</a>
+  </li>
 
+  <li>
+    Behavior testing of load forecasting models using BuildChecks<br>
+    <strong>Yang Deng</strong>, Jiaqi Fan, Hao Jiang, Fang He, Dan Wang, Ao Li, and Fu Xiao<br>
+    <em>ACM International Conference on Future Energy Systems (e-Energy)</em>, 2022<br>
+    <a href="/assets/representative_papers/BuildChecks.pdf">[pdf]</a>
+    <a href="/assets/research_slides/BuildChecks-Eenergy2022-slides-final.pdf">[slides]</a>
+  </li>
 
-1. AugPlug: An Automated Data Augmentation Model to Enhance Online Building Load Forecasting <br>
-   Yang Deng, Rui Liang, Yaohui Liu, Jiaqi Fan, and Dan Wang <br>
-   *ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys)*, <span style="color: red;">Best paper candidate</span>, 2024,
-   [[pdf]](../assets/representative_papers/Augplug.pdf)
-   [[slides]](../assets/research_slides/AugPlug_BuildSys24_1108.pdf)
-   
-3. Decomposition-based Data Augmentation for Time-series Building Load Data <br>
-   Yang Deng, Rui Liang, Dan Wang, Ao Li, and Fu Xiao <br>
-   *ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys)*, 2023,
-   [[pdf]](../assets/representative_papers/DAST.pdf)
-   [[slides]](../assets/research_slides/DAST-slides-buildsys-1115.pdf)
-   
-5. Behavior testing of load forecasting models using BuildChecks <br>
-   Yang Deng, Jiaqi Fan, Hao Jiang, Fang He, Dan Wang, Ao Li, and Fu Xiao <br>
-   *ACM International Conference on Future Energy Systems (e-Energy)*, 2022,
-   [[pdf]](../assets/representative_papers/BuildChecks.pdf)
-   [[slides]](../assets/research_slides/BuildChecks-Eenergy2022-slides-final.pdf)
+  <li>
+    Energon: A Data Acquisition System for Portable Building Analytics<br>
+    Fang He, <strong>Yang Deng</strong>, Yanhui Xu, Cheng Xu, Dezhi Hong, and Dan Wang<br>
+    <em>ACM International Conference on Future Energy Systems (e-Energy)</em>, 2021<br>
+    <a href="/assets/representative_papers/Energon.pdf">[pdf]</a>
+    <a href="/assets/research_slides/Energon_e-energy2021.pdf">[slides]</a>
+  </li>
 
-7. Energon: A Data Acquisition System for Portable Building Analytics <br>
-   He Fang, Yang Deng, Yanhui Xu, Cheng Xu, Dezhi Hong, and Dan Wang <br>
-   *ACM International Conference on Future Energy Systems (e-Energy)*, 2021,
-   [[pdf]](../assets/representative_papers/Energon.pdf)
-   [[slides]](../assets/research_slides/Energon_e-energy2021.pdf)
-
-
-</div>
+</ol>
 
