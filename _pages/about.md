@@ -37,7 +37,7 @@ More details of my overall research framework can be found [here](/research/).
 <!--My recent research centers on enhancing the *"Scalability"* of AI in (building) energy systems, with a focus on two following perspectives: a) *Large Foundation Model*: [[Adapt FM_to BLF]](https://arxiv.org/pdf/2412.17285) , b) *Model Ensemble*: [[HVAC_control1]](https://dl.acm.org/doi/pdf/10.1145/3671127.3698705), [[HVAC_control2]](https://arxiv.org/pdf/2505.02439).  -->
 
 
-Prior to PolyU, I gained valuable industry experience worked as machine learing engineer at Huawei Shanghai Institute and JD.com, two China's leading tech companies. This experience provided me with practical insights into the deployment of AI in real-world scenarios, which inspired my pursuit of a PhD.
+Prior to PolyU, I gained valuable industry experience worked as machine learing engineer at Huawei Shanghai Institute and JD.com, two China's leading tech companies. This provided me with practical insights into the deployment of AI, which inspired my pursuit of a PhD.
 <!-- My CV: [[Yang's Curriculum Vitae]](../assets/CV_Marco (5).pdf). -->
 <!--(both last updated Mar 2025)-->
 <!--, [[Yang's 中文简历]](../assets/CV_Marco_Chinese_Jan11.pdf)-->
