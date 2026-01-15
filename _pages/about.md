@@ -54,6 +54,7 @@ Email: yang2.deng@connect.polyu.hk
 
 News
 -------
+- <span style="font-size: 14px;">**Jan 2026**: Three <span style="color: #4682B4;">papers</span> on load prediction interpretability, carbon modeling, foundation model-based carbon forecasting are accepted by ACM e-Energy'26, WWW'26.</span>
 - <span style="font-size: 14px;">**Oct 2025**: Delivered an <span style="color: #4682B4;">invited talk</span> titled “Empowering AI Scalability in Building Energy Management Systems” at the HKCS (香港電脳学会) Artificial Intelligence Seminar: AI in Engineering and Construction ([`link`](https://www.linkedin.com/feed/update/urn:li:activity:7387474335474774016/)). Many thanks to Prof. Smason Tai's invitation. </span>
 - <span style="font-size: 14px;">**Sep 2025**: Three <span style="color: #4682B4;">papers</span> on building metadata modeling, carbon modeling, HVAC aggregation control optimization are accepted by Knowledge-Based Systems (KBS), NeurIPS 2025
 , ACM BuildSys'25.</span>
