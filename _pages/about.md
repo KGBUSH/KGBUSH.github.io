@@ -54,7 +54,7 @@ Email: yang2.deng@connect.polyu.hk
 
 News
 -------
-- <span style="font-size: 14px;">**Mar 2026**: Our <span style="color: #4682B4;">paper</span> "ThermoStill: Distilling Time Series Foundation Model into Thermal Dynamics Model for HVAC Model Predictive Control" is accepted by ACM e-Energy 2026 (Winter round). This is the first work that integrates time series foundation models into MPC-based HVAC control optimization.</span>
+- <span style="font-size: 14px;">**Mar 2026**: Our <span style="color: #4682B4;">paper</span> "ThermoStill: Distilling Time Series Foundation Model into Thermal Dynamics Model for HVAC Model Predictive Control" is accepted by ACM e-Energy 2026 (Winter round, 18 of 127). This is the first work that integrates time series foundation models into MPC-based HVAC control optimization.</span>
 - <span style="font-size: 14px;">**Jan 2026**: Three <span style="color: #4682B4;">papers</span> on load prediction interpretability, carbon modeling, foundation model-based carbon forecasting are accepted by ACM e-Energy'26 (Fall round), WWW'26.</span>
 - <span style="font-size: 14px;">**Oct 2025**: Delivered an <span style="color: #4682B4;">invited talk</span> titled “Empowering AI Scalability in Building Energy Management Systems” at the Hong Kong Computer Society (香港電脳学会) Artificial Intelligence Seminar: AI in Engineering and Construction ([`link`](https://www.linkedin.com/feed/update/urn:li:activity:7387474335474774016/)). Many thanks to Prof. Smason Tai's invitation. </span>
 - <span style="font-size: 14px;">**Sep 2025**: Three <span style="color: #4682B4;">papers</span> on building metadata modeling, carbon modeling, HVAC aggregation control optimization are accepted by Knowledge-Based Systems (KBS), NeurIPS 2025
