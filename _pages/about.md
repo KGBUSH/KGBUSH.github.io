@@ -79,7 +79,7 @@ News
 Selected Publications
 -------
 
-<ol style="font-size: 0.9em; line-height: 1.5;">
+<ol style="font-size: 0.8em; line-height: 1.5;">
 
   <li>
     MetaCloze: A Schema-guided Automated Building Metadata Model Generation System via Information Extraction<br>
