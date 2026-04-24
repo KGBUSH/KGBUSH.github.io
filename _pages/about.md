@@ -83,7 +83,7 @@ Selected Publications
 
   <li>
     MetaCloze: A Schema-guided Automated Building Metadata Model Generation System via Information Extraction<br>
-    Fang He, Jiaqi Fan, <strong>Yang Deng*</strong>, et al. (*corresponding author)<br>
+    Fang He, Jiaqi Fan, <u>Yang Deng*</u>, et al. (*corresponding author)<br>
     <em>Knowledge-Based Systems</em>
   </li>
 
