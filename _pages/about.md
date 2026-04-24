@@ -62,7 +62,7 @@ News
 , ACM BuildSys'25.</span>
 - <span style="font-size: 14px;">**Aug 2025**: Our project on _AIoT-based building energy control_ has been shortlisted for the final assessment in the "_PolyU International Future Challenge_"  <span style="color: #4682B4;">entrepreneurship contest</span>.</span>
 - <span style="font-size: 14px;">**Jul-Aug 2025**: I was a <span style="color: #4682B4;"> Visiting Fellow at Osaka University</span>, Japan, collaborating with Prof. Ittetsu Taniguchi and Dr. Dafang Zhao. During the visit, I led a joint research project among PolyU, Osaka University, and Daikin on optimizing HVAC control.</span>
-- <span style="font-size: 14px;">**May 2025**: Three <span style="color: #4682B4;"> papers</span> on foundation model (FM) and data augmentation (DA) got accepted: WeatherFM accepted by IJCAI'25, AugPlug+ accepted by ACM TOSN, FM fine-tuning for building analytics accepted by ICML CO-BUILD'25.</span>
+- <span style="font-size: 14px;">**May 2025**: Three <span style="color: #4682B4;"> papers</span> on foundation model and data augmentation got accepted: WeatherFM accepted by IJCAI'25, AugPlug+ accepted by ACM TOSN, FM fine-tuning for building analytics accepted by ICML CO-BUILD'25.</span>
 - <span style="font-size: 14px;">**Dec 2024**: I work as a Postdoctoral Fellow (funded by Research Talent Hub of _Innovation and Technology Commission, Hong Kong_) in the Department of Computing at PolyU.</span>
 - <span style="font-size: 14px;">**Nov 2024**: Best Ph.D. Forum Presentation Award at ACM BuildSys 2024 in Hangzhou, China! (for my presentation: Improving Cyber-Physical Building Energy System via Large-Scale Machine Learning Evaluation).</span>
 - <span style="font-size: 14px;">**Oct 2024**: Our work AugPlug and two poster/demo are accepted by ACM BuildSys 2024, all related to our [`BaiTest`](https://www.youtube.com/playlist?list=PL_yx_pJIQs0yL-GDSWDZO2IpWZaJ6Zqwf) Project.</span>
@@ -79,7 +79,7 @@ News
 Selected Publications
 -------
 
-<ol style="font-size: 0.8em; line-height: 1.5;">
+<ol style="font-size: 0.8em; line-height: 1.7;">
 
   <li>
     MetaCloze: A Schema-guided Automated Building Metadata Model Generation System via Information Extraction<br>
@@ -89,13 +89,13 @@ Selected Publications
 
   <li>
     Concept Drift-aware Time-series Generation for Online Building Load Forecasting: An Automated Data Augmentation Paradigm<br>
-    <strong>Yang Deng</strong>, Rui Liang, Jiaqi Fan, et al.<br>
+    <u>Yang Deng</u>, Rui Liang, Jiaqi Fan, et al.<br>
     <em>ACM Transactions on Sensor Networks (TOSN)</em>
   </li>
 
   <li>
     AugPlug: An Automated Data Augmentation Model to Enhance Online Building Load Forecasting<br>
-    <strong>Yang Deng</strong>, Rui Liang, Yaohui Liu, Jiaqi Fan, and Dan Wang<br>
+    <u>Yang Deng</u>, Rui Liang, Yaohui Liu, Jiaqi Fan, and Dan Wang<br>
     <em>ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys)</em>, 
     <span style="color: red;">Best paper candidate</span>, 2024<br>
     <a href="/assets/representative_papers/Augplug.pdf">[pdf]</a>
@@ -104,7 +104,7 @@ Selected Publications
 
   <li>
     Decomposition-based Data Augmentation for Time-series Building Load Data<br>
-    <strong>Yang Deng</strong>, Rui Liang, Dan Wang, Ao Li, and Fu Xiao<br>
+    <u>Yang Deng</u>, Rui Liang, Dan Wang, Ao Li, and Fu Xiao<br>
     <em>ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys)</em>, 2023<br>
     <a href="/assets/representative_papers/DAST.pdf">[pdf]</a>
     <a href="/assets/research_slides/DAST-slides-buildsys-1115.pdf">[slides]</a>
@@ -112,7 +112,7 @@ Selected Publications
 
   <li>
     Behavior testing of load forecasting models using BuildChecks<br>
-    <strong>Yang Deng</strong>, Jiaqi Fan, Hao Jiang, Fang He, Dan Wang, Ao Li, and Fu Xiao<br>
+    <u>Yang Deng</u>, Jiaqi Fan, Hao Jiang, Fang He, Dan Wang, Ao Li, and Fu Xiao<br>
     <em>ACM International Conference on Future Energy Systems (e-Energy)</em>, 2022<br>
     <a href="/assets/representative_papers/BuildChecks.pdf">[pdf]</a>
     <a href="/assets/research_slides/BuildChecks-Eenergy2022-slides-final.pdf">[slides]</a>
@@ -120,7 +120,7 @@ Selected Publications
 
   <li>
     Energon: A Data Acquisition System for Portable Building Analytics<br>
-    Fang He, <strong>Yang Deng</strong>, Yanhui Xu, Cheng Xu, Dezhi Hong, and Dan Wang<br>
+    Fang He, <u>Yang Deng</u>, Yanhui Xu, Cheng Xu, Dezhi Hong, and Dan Wang<br>
     <em>ACM International Conference on Future Energy Systems (e-Energy)</em>, 2021<br>
     <a href="/assets/representative_papers/Energon.pdf">[pdf]</a>
     <a href="/assets/research_slides/Energon_e-energy2021.pdf">[slides]</a>
