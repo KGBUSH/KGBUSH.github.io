@@ -22,10 +22,10 @@ repository               : "KGBUSH/KGBUSH.github.io"
 author:
   # Biographic information: "homepageimage.png"
   avatar           : "homepage0526.png"
-  name             : "Yang Deng (邓扬)"
+  name             : # "Yang Deng (邓扬)"
   pronouns         : # example: "she/her"  
-  bio              :  "Postdoc "
-  location         : "Hong Kong"
+  bio              : # "Postdoc "
+  location         : # "Hong Kong"
   employer         : # "COMP, PolyU"
   uri              : # URL
   email            : # "yang2.deng@connect.polyu.hk" 
