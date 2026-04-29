@@ -23,24 +23,11 @@ redirect_from:
 
 
 
+I am a Postdoctoral Fellow at the Hong Kong PolyU, working with Prof. Dan Wang (HKUST AIS) and Prof. Chen Jason Zhang (PolyU COMP). My research focuses on developing scalable and deployable AI systems for energy systems, spanning smart buildings, HVAC, battery systems, and emerging electrified infrastructures.
 
-I am a ITF-funded Postdoctoral Fellow at the Department of Computing at Hong Kong Polytechnic University (PolyU), working with [Prof. Dan WANG](https://wangdan.people.ust.hk/) and Prof. Chen Jason Zhang.
+I am particularly interested in integrating foundation models and agent-based AI into real-world operations. My recent work explores how AI agents interact with physical systems and operational data for prediction, control, and system optimization. I have been actively involved in, and in some cases led, projects with government and industrial partners in Hong Kong and Japan, focusing on deploying AI systems for practical energy applications.
 
-
-
-
-During my PhD study in PolyU, my research interest lies in machine learning model evaluation in Building Energy System, with hands-on experience in time series forecasting and applications in building HVAC system. 
-I have also contributed my expertise to support AI competitions for Building E&M Facilities hosted by the Hong Kong government.
-My recent research centers on enhancing the *"Scalability"* of AI in (building) energy systems, with a focus on two following perspectives: a) *Large Foundation Model* and b) *Model Ensemble*.
-More details of my overall research framework can be found [here](/research/).
-
-<!--My recent research centers on enhancing the *"Scalability"* of AI in (building) energy systems, with a focus on two following perspectives: a) *Large Foundation Model*: [[Adapt FM_to BLF]](https://arxiv.org/pdf/2412.17285) , b) *Model Ensemble*: [[HVAC_control1]](https://dl.acm.org/doi/pdf/10.1145/3671127.3698705), [[HVAC_control2]](https://arxiv.org/pdf/2505.02439).  -->
-
-
-Prior to PolyU, I gained valuable industry experience worked as machine learing engineer at Huawei Shanghai Institute and JD.com, two China's leading tech companies. This provided me with practical insights into the deployment of AI, which inspired my pursuit of a PhD.
-<!-- My CV: [[Yang's Curriculum Vitae]](../assets/CV_Marco (5).pdf). -->
-<!--(both last updated Mar 2025)-->
-<!--, [[Yang's 中文简历]](../assets/CV_Marco_Chinese_Jan11.pdf)-->
+Before my PhD, I worked as a machine learning engineer at Huawei, JD.com and startups.
 
 
 Email: yang2.deng@connect.polyu.hk
