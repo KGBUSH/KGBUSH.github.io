@@ -99,7 +99,7 @@ Selected Publications
   <li>
     Decomposition-based Data Augmentation for Time-series Building Load Data<br>
     <u>Yang Deng</u>, Rui Liang, Dan Wang, Ao Li, and Fu Xiao<br>
-    <em>ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys)</em>, 2023<br>
+    <em>ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys)</em>, 2023. 
     <a href="/assets/representative_papers/DAST.pdf">[pdf]</a>
     <a href="/assets/research_slides/DAST-slides-buildsys-1115.pdf">[slides]</a>
   </li>
@@ -107,7 +107,7 @@ Selected Publications
   <li>
     Behavior testing of load forecasting models using BuildChecks<br>
     <u>Yang Deng</u>, Jiaqi Fan, Hao Jiang, Fang He, Dan Wang, Ao Li, and Fu Xiao<br>
-    <em>ACM International Conference on Future Energy Systems (e-Energy)</em>, 2022<br>
+    <em>ACM International Conference on Future Energy Systems (e-Energy)</em>, 2022. 
     <a href="/assets/representative_papers/BuildChecks.pdf">[pdf]</a>
     <a href="/assets/research_slides/BuildChecks-Eenergy2022-slides-final.pdf">[slides]</a>
   </li>
@@ -115,7 +115,7 @@ Selected Publications
   <li>
     Energon: A Data Acquisition System for Portable Building Analytics<br>
     Fang He, <u>Yang Deng</u>, Yanhui Xu, Cheng Xu, Dezhi Hong, and Dan Wang<br>
-    <em>ACM International Conference on Future Energy Systems (e-Energy)</em>, 2021<br>
+    <em>ACM International Conference on Future Energy Systems (e-Energy)</em>, 2021. 
     <a href="/assets/representative_papers/Energon.pdf">[pdf]</a>
     <a href="/assets/research_slides/Energon_e-energy2021.pdf">[slides]</a>
   </li>
