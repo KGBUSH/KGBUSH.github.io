@@ -30,6 +30,12 @@ I am particularly interested in integrating foundation models and agent-based AI
 Before my PhD, I worked as a machine learning engineer at Huawei, JD.com and startups.
 
 
+<p>
+<a href="https://scholar.google.com/citations?user=kXABPmIAAAAJ">Google Scholar</a> |
+<a href="https://www.linkedin.com/in/%E6%89%AC-%E9%82%93-0267b3188/?skipRedirect=true">LinkedIn</a> |
+<a href="https://kgbush.github.io/assets/CV_Marco%20(5).pdf">CV</a>
+</p>
+
 Email: yang2.deng@connect.polyu.hk
 
 
