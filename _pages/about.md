@@ -29,7 +29,7 @@ I am particularly interested in integrating foundation models and agent-based AI
 
 Before my PhD, I worked as a machine learning engineer at Huawei, JD.com and startups.
 
- [Brief CV](https://kgbush.github.io/assets/CV_Marco%20(5).pdf).
+ [Brief CV](https://kgbush.github.io/assets/CV_Marco_brief.pdf).
 
 <p>
 <a href="https://scholar.google.com/citations?user=kXABPmIAAAAJ">[Google Scholar]</a> 
