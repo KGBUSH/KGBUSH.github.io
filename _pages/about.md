@@ -91,7 +91,7 @@ Selected Publications
     AugPlug: An Automated Data Augmentation Model to Enhance Online Building Load Forecasting<br>
     <u>Yang Deng</u>, Rui Liang, Yaohui Liu, Jiaqi Fan, and Dan Wang<br>
     <em>ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys)</em>, 
-    <span style="color: red;">Best paper candidate</span>, 2024<br>
+    <span style="color: red;">Best paper candidate</span>, 2024. 
     <a href="/assets/representative_papers/Augplug.pdf">[pdf]</a>
     <a href="/assets/research_slides/AugPlug_BuildSys24_1108.pdf">[slides]</a>
   </li>
