@@ -26,13 +26,13 @@ author:
   pronouns         : # example: "she/her"  
   bio              :  "Postdoc "
   location         : "Hong Kong"
-  employer         : "COMP, PolyU"
+  employer         : # "COMP, PolyU"
   uri              : # URL
-  email            : "yang2.deng@connect.polyu.hk" 
+  email            : # "yang2.deng@connect.polyu.hk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    :  "https://scholar.google.com/citations?user=kXABPmIAAAAJ"
+  googlescholar    : # "https://scholar.google.com/citations?user=kXABPmIAAAAJ"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-9822-3346"
   semantic         : # URL
