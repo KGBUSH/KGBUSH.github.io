@@ -20,12 +20,12 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
 
-  - title: "Research"
-    url: /research/
+  #- title: "Research"
+  #  url: /research/
 
     
-  - title: "CV"
-    url: /assets/CV_Marco (5).pdf
+  # - title: "CV"
+  #  url: /assets/CV_Marco (5).pdf
 
   # - title: "Chinese CV"
   #   url: /assets/CV_Marco_Chinese_Jan11.pdf
