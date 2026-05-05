@@ -76,6 +76,12 @@ Selected Publications
 
 <ol style="font-size: 0.8em; line-height: 1.7;">
 
+<li>
+  ThermoStill: Distilling Time Series Foundation Model into Thermal Dynamics Model for HVAC Model Predictive Control<br>
+  Rui Liang, <u>Yang Deng*</u>, Yaohui Liu, Dafang Zhao, Ozan Baris Mulayim, Ittetsu Taniguchi, Dan Wang (*corresponding author)<br>
+  <em>ACM International Conference on Future Energy Systems (e-Energy)</em>, 2026
+</li>
+
   <li>
     MetaCloze: A Schema-guided Automated Building Metadata Model Generation System via Information Extraction<br>
     Fang He, Jiaqi Fan, <u>Yang Deng*</u>, et al. (*corresponding author)<br>
