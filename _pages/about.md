@@ -48,7 +48,7 @@ Email: yang2.deng@connect.polyu.hk
 
 News
 -------
-- <span style="font-size: 14px;">**May 2026**: Delivered a <span style="color: #4682B4;">tutorial</span> on AI Agents for Information Retrieval in Building Management Systems to undergraduate and postgraduate students at the Academy of Interdisciplinary Studies (AIS) at HKUST.</span>
+- <span style="font-size: 14px;">**May 2026**: Delivered a <span style="color: #4682B4;">guest lecture</span> on AI Agents for Information Retrieval in Building Management Systems at the Academy of Interdisciplinary Studies (AIS) at HKUST.</span>
 - <span style="font-size: 14px;">**May-Jun 2026**: Returning as a <span style="color: #4682B4;"> Visiting Fellow </span> at Prof. Ittetsu Taniguchi's lab (Osaka University, Japan), working on the projects of smart HVAC sysatem and battery  in collaboration with Japanese industry partners.</span>
 - <span style="font-size: 14px;">**Mar 2026**: Our <span style="color: #4682B4;">paper</span> "ThermoStill: Distilling Time Series Foundation Model into Thermal Dynamics Model for HVAC Model Predictive Control" is accepted by ACM e-Energy 2026 (Winter round, 18 of 127 submissions were accepted). This is the first work that integrates time series foundation models into MPC-based HVAC control optimization.</span>
 - <span style="font-size: 14px;">**Jan 2026**: <span style="color: #4682B4;">Three papers</span> on load prediction interpretability, carbon modeling, foundation model-based carbon forecasting are accepted by ACM e-Energy'26 (Fall round), WWW'26.</span>
