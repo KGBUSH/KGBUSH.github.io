@@ -25,7 +25,7 @@ redirect_from:
 
 I am a Postdoctoral Fellow at the Hong Kong PolyU, working with Prof. Dan Wang (HKUST AIS) and Prof. Chen Jason Zhang (PolyU COMP). My research focuses on developing scalable and deployable AI systems for energy systems, spanning smart buildings, HVAC, battery systems, and emerging electrified infrastructures.
 
-I am particularly interested in integrating foundation models and agent-based AI into real-world operations. My recent work explores how AI agents interact with physical systems and operational data for prediction, control, and system optimization. I have been actively involved in, and in some cases led, projects with government and industrial partners in Hong Kong and Japan, focusing on deploying AI systems for practical energy applications.
+I am particularly interested in integrating foundation models and agent-based AI into real-world operations. My recent work explores how AI agents interact with physical systems and operational data for prediction, control, and system optimization. I have been actively involved in projects with government and industrial partners in Hong Kong and Japan, focusing on deploying AI systems for practical energy applications.
 
 Before my PhD, I worked as a machine learning engineer at Huawei, JD.com and startups.
 
