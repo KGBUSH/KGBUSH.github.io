@@ -49,10 +49,8 @@ Email: yang2.deng@connect.polyu.hk
 News
 -------
 - <span style="font-size: 14px;">**Jul 2026**: Delivered a <span style="color: #4682B4;">talk</span> at "EMSD x Student Exclusive | AI Energy Innovators Bootcamp", invited by EMSD.</span>
-
 - <span style="font-size: 14px;">**May-Jun 2026**: Returning as a <span style="color: #4682B4;"> Visiting Fellow </span> at Prof. Ittetsu Taniguchi's lab (The University of Osaka, Japan).</span>
 - <span style="font-size: 14px;">**May 2026**: Delivered an <span style="color: #4682B4;">guest lecture</span> at the Academy of Interdisciplinary Studies (AIS), HKUST, on AI Agents for Information Retrieval in Building Management Systems.</span>
-
 - <span style="font-size: 14px;">**Mar 2026**: Our <span style="color: #4682B4;">paper</span> "ThermoStill: Distilling Time Series Foundation Model into Thermal Dynamics Model for HVAC Model Predictive Control" is accepted by ACM e-Energy 2026 (Winter round, 18 of 127 submissions were accepted).</span>
 - <span style="font-size: 14px;">**Jan 2026**: <span style="color: #4682B4;">Three papers</span> on load prediction interpretability, carbon modeling, foundation model-based carbon forecasting are accepted by ACM e-Energy'26 (Fall round), WWW'26.</span>
 - <span style="font-size: 14px;">**Oct 2025**: Delivered an <span style="color: #4682B4;">invited talk</span> titled “Empowering AI Scalability in Building Energy Management Systems” at the Hong Kong Computer Society (香港電脳学会) Artificial Intelligence Seminar: AI in Engineering and Construction ([`link`](https://www.linkedin.com/feed/update/urn:li:activity:7387474335474774016/)). Many thanks to Prof. Smason Tai's invitation. </span>
