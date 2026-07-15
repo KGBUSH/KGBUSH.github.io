@@ -71,6 +71,8 @@ News
 
 
 
+
+
 Selected Publications
 -------
 
@@ -84,6 +86,13 @@ Selected Publications
 
 <li>
   <b>MetaCloze: A Schema-guided Automated Building Metadata Model Generation System via Information Extraction</b><br>
+  Fang He, Jiaqi Fan, <u>Yang Deng*</u>, et al. (*corresponding author)<br>
+  <em>Knowledge-Based Systems</em>
+</li>
+
+<li>
+  <b>Smart metering data enhancement in sustainable buildings via knowledge graph-guided graph neural networks
+</b><br>
   Fang He, Jiaqi Fan, <u>Yang Deng*</u>, et al. (*corresponding author)<br>
   <em>Knowledge-Based Systems</em>
 </li>
