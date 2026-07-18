@@ -76,7 +76,7 @@ News
 Selected Publications
 -------
 
-<ol style="font-size: 0.8em; line-height: 1.7;">
+<ol style="font-size: 0.7em; line-height: 1.7;">
 
 <li>
   <b>ThermoStill: Distilling Time Series Foundation Model into Thermal Dynamics Model for HVAC Model Predictive Control</b><br>
