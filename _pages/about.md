@@ -36,7 +36,7 @@ Before my PhD, I worked as a machine learning engineer at Huawei, JD.com and sta
 <a href="https://www.linkedin.com/in/%E6%89%AC-%E9%82%93-0267b3188/?skipRedirect=true">[LinkedIn]</a> 
 </p>  -->
 
-Email: yang2.deng@connect.polyu.hk
+<!--Email: yang2.deng@connect.polyu.hk -->
 
 
 
