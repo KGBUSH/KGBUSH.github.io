@@ -21,13 +21,24 @@ redirect_from:
 
 
 
-
+<!-- 23 Aug 2026
 
 I am a Postdoctoral Fellow at the Hong Kong PolyU, working with Prof. Dan Wang (HKUST AIS) and Prof. Chen Jason Zhang (PolyU COMP). My research focuses on developing scalable and deployable AI systems for energy systems, spanning smart buildings, HVAC, battery systems, and emerging electrified infrastructures.
 
 I am particularly interested in integrating foundation models and agent-based AI into real-world operations. My recent work explores how AI agents interact with physical systems and operational data for prediction, control, and system optimization. I have been actively involved in projects with government and industrial partners in Hong Kong and Japan, focusing on deploying AI systems for practical energy applications.
 
 Before my PhD, I worked as a machine learning engineer at Huawei, JD.com and startups in Shanghai.
+
+ -->
+
+I am working at the intersection of artificial intelligence, energy systems, and built environments. My research focuses on developing scalable and deployable AI methods for energy applications, including smart buildings, HVAC control, battery systems, and emerging electrified infrastructure.
+
+My recent work explores how foundation models, agentic AI, and learning-based control can be integrated with physical systems for prediction, diagnosis, and control optimization. I am particularly interested in building AI systems that are not only accurate in models and simulations, but also usable in real engineering workflows.
+
+I am involved in collaborative projects with academic, government, and industrial partners in Hong Kong and Japan. Before my PhD, I worked as a machine learning engineer at Huawei, JD.com, and startups in Shanghai.
+ 
+
+
 
  [Brief CV](https://kgbush.github.io/assets/CV_Marco_brief.pdf).
 
