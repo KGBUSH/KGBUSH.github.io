@@ -31,10 +31,10 @@ Before my PhD, I worked as a machine learning engineer at Huawei, JD.com and sta
 
  [Brief CV](https://kgbush.github.io/assets/CV_Marco_brief.pdf).
 
-<p>
+<!-- <p>
 <a href="https://scholar.google.com/citations?user=kXABPmIAAAAJ">[Google Scholar]</a> 
 <a href="https://www.linkedin.com/in/%E6%89%AC-%E9%82%93-0267b3188/?skipRedirect=true">[LinkedIn]</a> 
-</p>
+</p>  -->
 
 Email: yang2.deng@connect.polyu.hk
 
