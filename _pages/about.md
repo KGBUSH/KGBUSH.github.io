@@ -42,6 +42,8 @@ I am involved in collaborative projects with academic, government, and industria
 
  [Brief CV](https://kgbush.github.io/assets/CV_Marco_brief.pdf).
 
+<a href="https://scholar.google.com/citations?user=kXABPmIAAAAJ">[Google Scholar]</a> 
+
 <!-- <p>
 <a href="https://scholar.google.com/citations?user=kXABPmIAAAAJ">[Google Scholar]</a> 
 <a href="https://www.linkedin.com/in/%E6%89%AC-%E9%82%93-0267b3188/?skipRedirect=true">[LinkedIn]</a> 
