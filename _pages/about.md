@@ -60,6 +60,7 @@ I am involved in collaborative projects with academic, government, and industria
 
 News
 -------
+- <span style="font-size: 14px;">**Aug 2026**: I got Young Scientists Fund (Category C) from the National Natural Science Foundation of China (NSFC, 國家自然科學基金青年科學基金項目（C类）).</span>
 - <span style="font-size: 14px;">**Jul 2026**: Delivered a <span style="color: #4682B4;">talk</span> at "EMSD x Student Exclusive | AI Energy Innovators Bootcamp", Shau Kei Wan Government Secondary School, invited by EMSD (機電工程署).</span>
 - <span style="font-size: 14px;">**May-Jun 2026**: Returning as a <span style="color: #4682B4;"> Visiting Fellow </span> at Prof. Ittetsu Taniguchi's lab (The University of Osaka, Japan).</span>
 - <span style="font-size: 14px;">**May 2026**: Delivered an <span style="color: #4682B4;">guest lecture</span> at the Academy of Interdisciplinary Studies (AIS), HKUST, on AI Agents for Information Retrieval in Building Management Systems.</span>
