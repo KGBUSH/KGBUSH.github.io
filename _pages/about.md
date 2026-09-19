@@ -31,6 +31,8 @@ Before my PhD, I worked as a machine learning engineer at Huawei, JD.com and sta
 
  -->
 
+<div class="homepage-intro">
+
 I am working at the intersection of artificial intelligence, energy systems, and built environments. My research focuses on developing scalable and deployable AI methods for energy applications, including smart buildings, HVAC control, battery systems, and emerging electrified infrastructure.
 
 My recent work explores how foundation models, agentic AI, and learning-based control can be integrated with physical systems for prediction, diagnosis, and control optimization. I am particularly interested in building AI systems that are not only accurate in models and simulations, but also usable in real engineering workflows.
@@ -43,6 +45,8 @@ I am involved in collaborative projects with academic, government, and industria
  [Brief CV](https://kgbush.github.io/assets/CV_Marco_brief.pdf) (updated at Jun 2026).
 
 <a href="https://scholar.google.com/citations?user=kXABPmIAAAAJ">[Google Scholar]</a> 
+
+</div>
 
 <!-- <p>
 <a href="https://scholar.google.com/citations?user=kXABPmIAAAAJ">[Google Scholar]</a> 
@@ -150,4 +154,3 @@ Selected Publications
 </li>
 
 </ol>
-
