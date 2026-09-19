@@ -31,7 +31,7 @@ Before my PhD, I worked as a machine learning engineer at Huawei, JD.com and sta
 
  -->
 
-<div class="homepage-intro">
+
 
 I am working at the intersection of artificial intelligence, energy systems, and built environments. My research focuses on developing scalable and deployable AI methods for energy applications, including smart buildings, HVAC control, battery systems, and emerging electrified infrastructure.
 
@@ -46,7 +46,7 @@ I am involved in collaborative projects with academic, government, and industria
 
 <a href="https://scholar.google.com/citations?user=kXABPmIAAAAJ">[Google Scholar]</a> 
 
-</div>
+
 
 <!-- <p>
 <a href="https://scholar.google.com/citations?user=kXABPmIAAAAJ">[Google Scholar]</a> 
