@@ -60,7 +60,7 @@ I am involved in collaborative projects with academic, government, and industria
 
 News
 -------
-- <span style="font-size: 14px;">**Aug 2026**: I got Young Scientists <span style="color: #4682B4;">Fund</span> (Category C) from the National Natural Science Foundation of China (NSFC, 國家自然科學基金青年科學基金項目).</span>
+- <span style="font-size: 14px;">**Aug 2026**: I got <span style="color: #4682B4;">Young Scientists Fund (C)</span> from the National Natural Science Foundation of China (NSFC, 國家自然科學基金青年科學基金項目).</span>
 - <span style="font-size: 14px;">**Jul 2026**: Delivered a <span style="color: #4682B4;">talk</span> at "EMSD x Student Exclusive | AI Energy Innovators Bootcamp", Shau Kei Wan Government Secondary School, invited by EMSD (機電工程署).</span>
 - <span style="font-size: 14px;">**May-Jun 2026**: Returning as a <span style="color: #4682B4;"> Visiting Fellow </span> at Prof. Ittetsu Taniguchi's lab (The University of Osaka, Japan).</span>
 - <span style="font-size: 14px;">**May 2026**: Delivered an <span style="color: #4682B4;">guest lecture</span> at the Academy of Interdisciplinary Studies (AIS), HKUST, on AI Agents for Information Retrieval in Building Management Systems.</span>
@@ -73,7 +73,7 @@ News
 - <span style="font-size: 14px;">**Jul-Aug 2025**: I was a <span style="color: #4682B4;"> Visiting Fellow at Osaka University</span>, Japan, collaborating with Prof. Ittetsu Taniguchi and Dr. Dafang Zhao. During the visit, I led a joint research project among PolyU, Osaka University, and Daikin on optimizing HVAC control.</span>
 - <span style="font-size: 14px;">**May 2025**: <span style="color: #4682B4;">Three papers</span> on foundation model and data augmentation got accepted: WeatherFM accepted by IJCAI'25, AugPlug+ accepted by ACM TOSN, FM fine-tuning for building analytics accepted by ICML CO-BUILD'25.</span>
 - <span style="font-size: 14px;">**Dec 2024**: I work as a Postdoctoral Fellow (funded by Research Talent Hub of _Innovation and Technology Commission, Hong Kong_) in the Department of Computing at PolyU.</span>
-- <span style="font-size: 14px;">**Nov 2024**: Best Ph.D. Forum Presentation Award at ACM BuildSys 2024 in Hangzhou, China! (for my presentation: Improving Cyber-Physical Building Energy System via Large-Scale Machine Learning Evaluation).</span>
+- <span style="font-size: 14px;">**Nov 2024**: <span style="color: #4682B4;">Best Ph.D. Forum Presentation Award</span> at ACM BuildSys 2024 in Hangzhou, China! (for my presentation: Improving Cyber-Physical Building Energy System via Large-Scale Machine Learning Evaluation).</span>
 - <span style="font-size: 14px;">**Oct 2024**: Our work AugPlug and two poster/demo are accepted by ACM BuildSys 2024, all related to our [`BaiTest`](https://www.youtube.com/playlist?list=PL_yx_pJIQs0yL-GDSWDZO2IpWZaJ6Zqwf) Project.</span>
 - <span style="font-size: 14px;">**Sep 2024**: <span style="color: #4682B4;">I passed my PhD defense! And many thanks to my supervisor Prof. Dan WANG!</span></span>
 - <span style="font-size: 14px;">**Aug 2024**: Best Presentation Award at the 2nd PolyU Research Student Conference (PRSC 2024).</span>
