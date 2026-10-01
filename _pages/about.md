@@ -69,6 +69,7 @@ I am involved in collaborative projects with academic, government, and industria
 News
 -------
 - <span style="font-size: 14px;">**Aug 2026**: I got <span style="color: #4682B4;">Young Scientists Fund (C)</span> from the National Natural Science Foundation of China (NSFC, 國家自然科學基金青年科學基金項目).</span>
+- <span style="font-size: 14px;">**Aug 2026**: I got a seed <span style="color: #4682B4;">funding</span> from The HKSTP Ideation Programme (香港科技園Ideation計劃).</span>
 - <span style="font-size: 14px;">**Jul 2026**: Delivered a <span style="color: #4682B4;">talk</span> at "EMSD x Student Exclusive | AI Energy Innovators Bootcamp", Shau Kei Wan Government Secondary School, invited by EMSD (機電工程署).</span>
 - <span style="font-size: 14px;">**May-Jun 2026**: Returning as a <span style="color: #4682B4;"> Visiting Fellow </span> at Prof. Ittetsu Taniguchi's lab (The University of Osaka, Japan).</span>
 - <span style="font-size: 14px;">**May 2026**: Delivered an <span style="color: #4682B4;">guest lecture</span> at the Academy of Interdisciplinary Studies (AIS), HKUST, on AI Agents for Information Retrieval in Building Management Systems.</span>
@@ -83,9 +84,9 @@ News
 
 - <span style="font-size: 14px;">**Dec 2024**: I work as a Postdoctoral Fellow in the Department of Computing at PolyU, funded by Research Talent Hub of Innovation and Technology Commission.</span>
 - <span style="font-size: 14px;">**Nov 2024**: <span style="color: #4682B4;">Best Ph.D. Forum Presentation Award</span> at ACM BuildSys 2024 in Hangzhou, China! (for my presentation: Improving Cyber-Physical Building Energy System via Large-Scale Machine Learning Evaluation).</span>
-- <span style="font-size: 14px;">**Oct 2024**: AugPlug was accepted by ACM BuildSys 2024 (Best paper candidate).</span>
-- <span style="font-size: 14px;">**Aug 2024**: Best Presentation Award at the 2nd PolyU Research Student Conference (PRSC 2024).</span>
-- <span style="font-size: 14px;">**Jun 2024**: Best Poster Runner Up at ACM e-Energy 2024 in Singapore!</span>
+- <span style="font-size: 14px;">**Oct 2024**: AugPlug was accepted by ACM BuildSys 2024 (<span style="color: #4682B4;">Best paper candidate</span>).</span>
+- <span style="font-size: 14px;">**Aug 2024**: <span style="color: #4682B4;">Best Presentation Award</span> at the 2nd PolyU Research Student Conference (PRSC 2024).</span>
+- <span style="font-size: 14px;">**Jun 2024**: <span style="color: #4682B4;">Best Poster Runner Up</span> at ACM e-Energy 2024 in Singapore!</span>
 
 
  <!-- <span style="color: gray;">(titled: Improving Cyber-Physical Building Energy System via Large-Scale Machine Learning Evaluation)</span> -->
