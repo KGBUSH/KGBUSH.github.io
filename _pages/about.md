@@ -75,13 +75,13 @@ News
 - <span style="font-size: 14px;">**May 2026**: Delivered an <span style="color: #4682B4;">guest lecture</span> at the Academy of Interdisciplinary Studies (AIS), HKUST, on AI Agents for Information Retrieval in Building Management Systems.</span>
 - <span style="font-size: 14px;">**Mar 2026**: Our <span style="color: #4682B4;">paper</span> "ThermoStill: Distilling Time Series Foundation Model into Thermal Dynamics Model for HVAC Model Predictive Control" is accepted by ACM e-Energy 2026 (Winter round, 18 of 127 submissions were accepted).</span>
 - <span style="font-size: 14px;">**Jan 2026**: <span style="color: #4682B4;">Three papers</span> on load prediction interpretability, carbon modeling, foundation model-based carbon forecasting are accepted by ACM e-Energy'26 (Fall round), WWW'26.</span>
-
+---
 - <span style="font-size: 14px;">**Oct 2025**: Delivered an <span style="color: #4682B4;">invited talk</span> titled “Empowering AI Scalability in Building Energy Management Systems” at the Hong Kong Computer Society (香港電脳学会) Artificial Intelligence Seminar: AI in Engineering and Construction ([`link`](https://www.linkedin.com/feed/update/urn:li:activity:7387474335474774016/)). Many thanks to Prof. Smason Tai's invitation. </span>
 - <span style="font-size: 14px;">**Sep 2025**: <span style="color: #4682B4;">Three papers</span> on building metadata modeling, carbon modeling, HVAC aggregation control optimization are accepted by Knowledge-Based Systems (KBS), NeurIPS 2025
 , ACM BuildSys'25.</span>
 - <span style="font-size: 14px;">**Jul-Aug 2025**: I was a <span style="color: #4682B4;"> Visiting Fellow at Osaka University</span>, Japan, collaborating with Prof. Ittetsu Taniguchi and Dr. Dafang Zhao. During the visit, I led a joint research project among PolyU, Osaka University, and Daikin on optimizing HVAC control.</span>
 - <span style="font-size: 14px;">**May 2025**: <span style="color: #4682B4;">Three papers</span> on foundation model and data augmentation got accepted: WeatherFM accepted by IJCAI'25, AugPlug+ accepted by ACM TOSN, FM fine-tuning for building analytics accepted by ICML CO-BUILD'25.</span>
-
+---
 - <span style="font-size: 14px;">**Dec 2024**: I work as a Postdoctoral Fellow in the Department of Computing at PolyU, funded by Research Talent Hub of Innovation and Technology Commission.</span>
 - <span style="font-size: 14px;">**Nov 2024**: <span style="color: #4682B4;">Best Ph.D. Forum Presentation Award</span> at ACM BuildSys 2024 in Hangzhou, China! (for my presentation: Improving Cyber-Physical Building Energy System via Large-Scale Machine Learning Evaluation).</span>
 - <span style="font-size: 14px;">**Oct 2024**: AugPlug was accepted by ACM BuildSys 2024 (<span style="color: #4682B4;">Best paper candidate</span>).</span>
