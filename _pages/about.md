@@ -56,7 +56,7 @@ I am involved in collaborative projects with academic, government, and industria
 <!--Email: yang2.deng@connect.polyu.hk 
 - <span style="font-size: 14px;">**Aug 2025**: Our project on _AIoT-based building energy control_ has been shortlisted for the final assessment in the "_PolyU International Future Challenge_"  <span style="color: #4682B4;">entrepreneurship contest</span>.</span>
 - <span style="font-size: 14px;">**Sep 2024**: <span style="color: #4682B4;">I passed my PhD defense! And many thanks to my supervisor Prof. Dan WANG!</span></span>
-
+- <span style="font-size: 14px;">**Dec 2024**: I work as a Postdoctoral Fellow in the Department of Computing at PolyU, funded by Research Talent Hub of Innovation and Technology Commission.</span>
 -->
 
 
@@ -81,7 +81,7 @@ News
 - <span style="font-size: 14px;">**Jul-Aug 2025**: I was a <span style="color: #4682B4;"> Visiting Fellow at Osaka University</span>, Japan, collaborating with Prof. Ittetsu Taniguchi and Dr. Dafang Zhao. During the visit, I led a joint research project among PolyU, Osaka University, and Daikin on optimizing HVAC control.</span>
 - <span style="font-size: 14px;">**May 2025**: <span style="color: #4682B4;">Three papers</span> on foundation model and data augmentation got accepted: WeatherFM accepted by IJCAI'25, AugPlug+ accepted by ACM TOSN, FM fine-tuning for building analytics accepted by ICML CO-BUILD'25.</span>
 
-- <span style="font-size: 14px;">**Dec 2024**: I work as a Postdoctoral Fellow in the Department of Computing at PolyU, funded by Research Talent Hub of Innovation and Technology Commission.</span>
+
 - <span style="font-size: 14px;">**Nov 2024**: <span style="color: #4682B4;">Best Ph.D. Forum Presentation Award</span> at ACM BuildSys 2024 in Hangzhou, China! (for my presentation: Improving Cyber-Physical Building Energy System via Large-Scale Machine Learning Evaluation).</span>
 - <span style="font-size: 14px;">**Oct 2024**: AugPlug was accepted by ACM BuildSys 2024 (<span style="color: #4682B4;">Best paper candidate</span>).</span>
 - <span style="font-size: 14px;">**Aug 2024**: <span style="color: #4682B4;">Best Presentation Award</span> at the 2nd PolyU Research Student Conference (PRSC 2024).</span>
