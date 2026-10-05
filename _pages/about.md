@@ -1,4 +1,9 @@
-
+---
+permalink: /
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 
@@ -75,6 +80,7 @@ News
 , ACM BuildSys'25.</span>
 - <span style="font-size: 14px;">**Jul-Aug 2025**: I was a <span style="color: #4682B4;"> Visiting Fellow at Osaka University</span>, Japan, collaborating with Prof. Ittetsu Taniguchi and Dr. Dafang Zhao. During the visit, I led a joint research project among PolyU, Osaka University, and Daikin on optimizing HVAC control.</span>
 - <span style="font-size: 14px;">**May 2025**: <span style="color: #4682B4;">Three papers</span> on foundation model and data augmentation got accepted: WeatherFM accepted by IJCAI'25, AugPlug+ accepted by ACM TOSN, FM fine-tuning for building analytics accepted by ICML CO-BUILD'25.</span>
+
 
 - <span style="font-size: 14px;">**Nov 2024**: <span style="color: #4682B4;">Best Ph.D. Forum Presentation Award</span> at ACM BuildSys 2024 in Hangzhou, China! (for my presentation: Improving Cyber-Physical Building Energy System via Large-Scale Machine Learning Evaluation).</span>
 - <span style="font-size: 14px;">**Oct 2024**: AugPlug was accepted by ACM BuildSys 2024 (<span style="color: #4682B4;">Best paper candidate</span>).</span>
