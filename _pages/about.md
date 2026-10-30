@@ -68,6 +68,7 @@ I am involved in collaborative projects with academic, government, and industria
 
 News
 -------
+- <span style="font-size: 14px;">**Oct 2026**: Our <span style="color: #4682B4;">paper</span> "Dynamic Ensemble Modeling for MPC-Based HVAC Control via Hierarchical Reinforcement Learning: A University Building Case Study" has been accepted for publication in *Building Simulation*.</span>
 - <span style="font-size: 14px;">**Aug 2026**: I got two fund: <span style="color: #4682B4;">Young Scientists Fund (C)</span> from the National Natural Science Foundation of China (NSFC, 國家自然科學基金青年科學基金項目); and a <span style="color: #4682B4;">seed funding</span> from The HKSTP Ideation Programme.</span>
 - <span style="font-size: 14px;">**Jul 2026**: Delivered a <span style="color: #4682B4;">talk</span> at "EMSD x Student Exclusive | AI Energy Innovators Bootcamp", Shau Kei Wan Government Secondary School, invited by EMSD (機電工程署).</span>
 - <span style="font-size: 14px;">**May-Jun 2026**: Returning as a <span style="color: #4682B4;"> Visiting Fellow </span> at Prof. Ittetsu Taniguchi's lab (The University of Osaka, Japan).</span>
